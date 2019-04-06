@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5ab78406-cb50-47bc-84a3-fd5b3014d5fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/navianceScraper/admissions_info_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/admissions_info_dict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navianceScraper/college_link_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/college_link_dict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navianceScraper/csv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/csv.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/navianceScraper/naviance_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/naviance_scraper.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/navianceScraper/naviance_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="116" column="65" selection-start-line="116" selection-start-column="65" selection-end-line="116" selection-end-column="65" />
+            <state relative-caret-position="373">
+              <caret line="146" column="48" selection-start-line="146" selection-start-column="48" selection-end-line="146" selection-end-column="48" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -26,10 +28,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navianceScraper/admissions_info_dict.json">
+        <entry file="file://$PROJECT_DIR$/navianceScraper/admittance_predictor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,11 +84,13 @@
         <option value="$PROJECT_DIR$/college_link_dict.json" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/naviance_scraper.py" />
+        <option value="$PROJECT_DIR$/navianceScraper/admittance_predictor.py" />
         <option value="$PROJECT_DIR$/navianceScraper/naviance_scraper.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="961" />
     <option name="width" value="959" />
     <option name="height" value="1052" />
   </component>
@@ -103,6 +110,11 @@
               <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
               <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
               <item name="navianceScraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
+              <item name="webForm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,11 +186,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="959" height="1052" extended-state="4" />
+    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3368092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14270833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
@@ -190,7 +202,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.1670168" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.16684155" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,17 +473,30 @@
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/webForm/webForm.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/navianceScraper/admissions_info_dict.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="-4575">
+          <caret line="184" column="22" lean-forward="true" selection-start-line="184" selection-start-column="22" selection-end-line="184" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navianceScraper/admittance_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/navianceScraper/naviance_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="116" column="65" selection-start-line="116" selection-start-column="65" selection-end-line="116" selection-end-column="65" />
+        <state relative-caret-position="373">
+          <caret line="146" column="48" selection-start-line="146" selection-start-column="48" selection-end-line="146" selection-end-column="48" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
