@@ -6,13 +6,11 @@ from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
 import json
 from time import sleep
+import os
 
 
-
-
-
-def import_secrets():
-    with open("secrets.json", "r") as file:
+def import_secrets(prefix):
+    with open(prefix + "secrets.json", "r") as file:
         keys = json.load(file)
         file.close()
     naviance_username = keys["naviance"]["username"]
@@ -39,8 +37,8 @@ def get_elem(browser, attribute, my_attr, delay=5):
         exit()
 
 
-def login(browser):
-    naviance_username, naviance_password = import_secrets()
+def login(browser, prefix):
+    naviance_username, naviance_password = import_secrets(prefix)
     browser.get("https://student.naviance.com/sww")
     elem = get_elem(browser, "TAG_NAME", "form")
     username_input = elem.find_element_by_id("username")
@@ -52,12 +50,14 @@ def login(browser):
     sleep(1)
 
 
-def main_pull_ubs():
+def main_pull_naviance():
+    prefix = os.path.dirname(os.path.realpath(__file__)) + "/"
+
     # Make your driver
     driver = webdriver.Chrome()
 
     # Log into UBS
-    login(driver)
+    login(driver, prefix)
 
     # Get data
     college_list = [
@@ -85,11 +85,11 @@ def main_pull_ubs():
             college_link = top_result.find_element_by_tag_name("a").get_attribute("href")
             college_link_dict[college] = college_link
         # Save data for later
-        with open("college_link_dict.json", "w") as fp:
+        with open(prefix + "college_link_dict.json", "w") as fp:
             json.dump(college_link_dict, fp, indent=2)
             fp.close()
     else:
-        with open("college_link_dict.json", "r") as fp:
+        with open(prefix + "college_link_dict.json", "r") as fp:
             college_link_dict = json.load(fp)
             fp.close()
 
@@ -100,17 +100,64 @@ def main_pull_ubs():
         json_link = "https://fc-hubs-app.naviance.com/schools/scattergrams?collegeId=" + college_identifier
         driver.get(json_link)
         json_content = get_elem(driver, "TAG_NAME", "pre").get_attribute("innerHTML")
-        json_stuff = json.loads(json_content)
+        json_stuff = json.loads(json_content)["scores"]
         admissions_info_dict[college] = json_stuff
+
+    # Pre-process data
+    for college, scores in admissions_info_dict.items():
+        for score in scores:
+            del score["sat1600"]
+            del score["legacyStudentId"]
+            if score["waitlisted"] == 1:
+                score["resultCode"] = 2
+            del score["waitlisted"]
+            if score["deferred"] == 1:
+                score["resultCode"] = 2
+            del score["deferred"]
+            if score["satConcorded"] == score["sat2400"] == score["act"] == 0:
+                score["resultCode"] = 3
+        newScores = []
+        for score in scores:
+            if score["resultCode"] == 1:
+                score["resultCode"] = True
+                newScores.append(score)
+            elif score["resultCode"] == 2:
+                score["resultCode"] = False
+                newScores.append(score)
+        admissions_info_dict[college] = newScores
+
     # Save data for later
-    with open("admissions_info_dict.json", "w") as fp:
+    with open(prefix + "admissions_info_dict.json", "w") as fp:
         json.dump(admissions_info_dict, fp, indent=2)
         fp.close()
 
+    # Convert to CSV for using ML algorithms
+    for college, scores in admissions_info_dict.items():
+        ivs = ["type", "act", "sat2400", "gpaWeighted", "gpaCumulative", "satConcorded"]
+        dvs = ["resultCode"]
+        with open(prefix + "csv.csv", "w") as fp:
+            for iv in ivs:
+                fp.write(iv + ", ")
+            for dv in dvs:
+                fp.write(dv)
+            fp.write("\n")
+            for score in scores:
+                for iv in ivs:
+                    fp.write(str(score[iv]) + ", ")
+                for dv in dvs:
+                    fp.write(str(score[dv]))
+                fp.write("\n")
+            fp.close()
+
+    #
+
     # Predict wins/losses
+    applying_colleges = []
+    for college in applying_colleges:
+        change_admitted = 0.1
 
     # Exit
     driver.close()
 
 
-main_pull_ubs()
+main_pull_naviance()
