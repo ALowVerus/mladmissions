@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--
+	File: webForm.html
+	Team: Will I Get In?
+-->
+<html lang="en">
+<meta charset="utf-8"/>
+<head>
+    <title>Will I Get In?</title>
+    <link rel="stylesheet" type="text/css" href="webForm.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="webForm.js"></script>
+</head>
+<body>
+	<header>
+		<h1>Will I Get In?</h1>
+	</header>
+	<form name="studentInfo" class="box" onsubmit="return validator()" action="" method="post">
+		<fieldset id="submit-form">
+			<legend><strong>Student Information</strong></legend>
+			<ul>
+				<li>GPA <input id="gpa" type="text" placeholder=" unweighted 4.0 scale"></li>
+				<li><br /></li>
+				<li>ACT <input id="act" type="text" placeholder=" cumulative out of 36"></li>
+				<li><br /></li>
+				<li>SAT <input id="sat" type="text" placeholder=" composite out of 1600"></li>
+			</ul>
+			<div class="buttons">
+				<input type="submit" value="Submit">
+				<input type="reset" value="Reset">
+			</div>
+		</fieldset>
+	</form>
+</body>
+</html>
