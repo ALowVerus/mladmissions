@@ -370,10 +370,15 @@ def collegeChoices(updates):
 # startOver - helps start over the program
 def startOver(updates):
 	global curStep
+	global chosenSchools # container for chosen schools
+	global returnData # container for returned JSON
 	for update in updates["result"]:
 		msg = ["Okay, we'll restart.", "What's your GPA (on an unweighted 4.0 scale)?"]
 		replyMessage(updates, msg[0])
 		replyMessage(updates, msg[1])
+		# reset chosen schools and return data
+		chosenSchools = []
+		returnData = None
 		# update step value to gpa recorder
 		curStep = 1
 	
