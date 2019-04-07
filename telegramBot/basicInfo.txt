@@ -1,0 +1,5 @@
+Basic HTTP Request:
+https://api.telegram.org/bot708703702:AAG1Kkk4R2h_ePrillz-5ADIoCoGEiIMSE0/
+
+Basic Text Reply:
+https://api.telegram.org/bot708703702:AAG1Kkk4R2h_ePrillz-5ADIoCoGEiIMSE0/sendMessage?chat_id=378874979&text=
