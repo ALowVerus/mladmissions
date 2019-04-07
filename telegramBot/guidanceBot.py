@@ -30,8 +30,8 @@ def postData(gpa, score, schoolList):
 		} # list of school names as strings
 	print("\t\tMade JSON")
 	# storing post request response (DON'T KNOW WHAT I'M DOING WITH LOADING)
-	import ipdb;ipdb.set_trace()
-	rawResponse = requests.post("http://129.170.195.144:5000/predict", jData) # 10.142.0.2
+	# import ipdb;ipdb.set_trace()
+	rawResponse = requests.post("http://127.0.0.1:5000/predict", jData) # 10.142.0.2
 	print("\t\tPost request done")
 	# response = {
 	# 		'data': {
