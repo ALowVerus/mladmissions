@@ -371,8 +371,11 @@ def collegeChoices(updates):
 def startOver(updates):
 	global curStep
 	for update in updates["result"]:
-		replyMessage(updates, "And will you be submitting SAT or ACT scores?")
-		curStep = 0
+		msg = ["Okay, we'll restart.", "What's your GPA (on an unweighted 4.0 scale)?"]
+		replyMessage(updates, msg[0])
+		replyMessage(updates, msg[1])
+		# update step value to gpa recorder
+		curStep = 1
 	
 def main():
 	last_update_id = None
