@@ -121,7 +121,7 @@ def sendResultsMessage(updates, schoolData, getOne, getNone):
 	for x in school_list:
 		count += 1
 		resMsg += "        " + str(x) + ": "
-		resMsg += str(colleges[x])
+		resMsg += str(colleges[x] * 100)
 		if ( count != len(colleges) ):
 			resMsg += "%\n"
 		# end of college prob results
