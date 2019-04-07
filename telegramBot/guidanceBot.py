@@ -30,19 +30,19 @@ def postData(gpa, score, schoolList):
 		} # list of school names as strings
 	print("\t\tMade JSON")
 	# storing post request response (DON'T KNOW WHAT I'M DOING WITH LOADING)
-	# import ipdb;ipdb.set_trace()
-	# rawResponse = requests.post("http://129.170.195.144:5000/predict", jData) # 10.142.0.2
-	# print("\t\tPost request done")
-	response = {
-			'data': {
-				'colleges': {
-					'dartmouth': 0.80,
-					'northeastern': 0.35
-				}
-			}
-		}
+	import ipdb;ipdb.set_trace()
+	rawResponse = requests.post("http://129.170.195.144:5000/predict", jData) # 10.142.0.2
+	print("\t\tPost request done")
+	# response = {
+	# 		'data': {
+	# 			'colleges': {
+	# 				'Dartmouth': 0.80,
+	# 				'Northeastern': 0.35
+	# 			}
+	# 		}
+	# 	}
 	print("\t\tMade JSON response")
-	# response = json.loads( rawResponse )
+	response = json.loads( rawResponse )
 	print("\t\tResponse: ", response)
 	# return post response data
 	return response
@@ -124,10 +124,10 @@ def sendResultsMessage(updates, schoolData, getOne, getNone):
 		resMsg += "        " + str(x) + ": "
 		resMsg += str(colleges[x])
 		if ( count != len(colleges) ):
-			resMsg += "\n"
+			resMsg += "%\n"
 		# end of college prob results
 		else:
-			resMsg += "\n\n"
+			resMsg += "%\n\n"
 	# import ipdb;ipdb.set_trace()
 	resMsg += "    Chance of getting into at least one of the schools: " + str(int(getOne * 100)) + "%\n\n"
 	resMsg += "    Chance of not getting into any of the schools: " + str(int(getNone * 100)) + "%\n\n"
@@ -332,13 +332,18 @@ def collegeChoices(updates):
 			# set result to lowercase reply message
 			result = ( update["message"]["text"] ).lower()
 			# list of colleges we are allowing users to choose from
-			collegeOptions = ["Dartmouth", "Northeastern", "Brown", "Columbia", "Harvard", "Princeton"]
+			collegeOptions = ["Dartmouth", "Harvard", "Brown", "Columbia", "Northeastern", "Princeton"]
 			# search for each school in the list
 			for i in range(len(collegeOptions)):
 				# if we find one of the schools in the response
 				if ( result.find(collegeOptions[i].lower()) != -1 ):
 					# add it to the list of chosen schools
-					chosenSchools.append(collegeOptions[i].lower())
+					toAppend = collegeOptions[i]
+					if (i <= 1):
+						toAppend += " College"
+					else:
+						toAppend += " University"
+					chosenSchools.append(toAppend)
 					return
 				# else if we find the word "done" in the response
 				elif ( result.find("done") != -1 ):
