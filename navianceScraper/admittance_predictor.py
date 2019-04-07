@@ -50,7 +50,7 @@ def process_data(data, college, knn_cons, showing_plots=True):
     return x_train_smote, y_train_smote
 
 
-def main():
+def main_admittance_predictor():
     showing_plots = False
 
     # Convert data into CSV format for management
@@ -140,6 +140,8 @@ def main():
         print("Best model is " + best_model["name"] + ", scored at " + str(best_model["score"]) + ".")
         college_specific_data[college]["model"] = best_model
 
+    return college_specific_data
+
 
 if __name__ == '__main__':
-    main()
+    main_admittance_predictor()
