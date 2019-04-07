@@ -353,7 +353,7 @@ def collegeChoices(updates):
 					resultsHandler(updates)
 					print("Finished resultsHandler")
 					curStep = 5
-					replyMessage(updates, "Satisfied?") # loop
+					replyMessage(updates, "Not satisfied? Type anything to restart.")
 					return
 			# send message letting user know they've given an invalid school choice
 			replyMessage(updates,
