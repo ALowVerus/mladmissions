@@ -1,7 +1,11 @@
 from flask import Flask
 import json
 from flask import request
-from navianceScraper.admittance_predictor import main_admittance_predictor
+import sys
+import os
+import ipdb
+from admittance_predictor import main_admittance_predictor
+
 
 app=Flask(__name__)
 college_model_data = main_admittance_predictor()
@@ -9,6 +13,8 @@ college_model_data = main_admittance_predictor()
 
 @app.route('/predict', methods=['post'])
 def predict():
+	ipdb.set_trace()
+	print(request.json['data'])
 	request_data = request.json['data']
 	gpa = request_data['gpa']
 	sat = request_data['sat']

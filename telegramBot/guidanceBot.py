@@ -22,16 +22,16 @@ def postData(gpa, score, schoolList):
 	print("\t\tReached the post request")
 	# data to be sent to api as JSON
 	jData = {
-		"data":{
-				"sat":score, # int in range 0-36 or 0-1600
-				"gpa":gpa, # float between 0.0 and 4.0
-				"colleges":schoolList
+		"data": {
+				"sat": score, 	# int in range 0-36 or 0-1600
+				"gpa": gpa, 	# float between 0.0 and 4.0
+				"colleges": schoolList
 			}
 		} # list of school names as strings
 	print("\t\tMade JSON")
 	# storing post request response (DON'T KNOW WHAT I'M DOING WITH LOADING)
 	# import ipdb;ipdb.set_trace()
-	rawResponse = requests.post("http://127.0.0.1:5000/predict", jData) # 10.142.0.2
+	rawResponse = requests.post("http://0.0.0.0:9000/predict", json.loads(jData)) # 10.142.0.2
 	print("\t\tPost request done")
 	# response = {
 	# 		'data': {
