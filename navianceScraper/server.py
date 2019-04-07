@@ -3,7 +3,7 @@ import json
 from flask import request
 import sys
 import os
-import ipdb
+
 from admittance_predictor import main_admittance_predictor
 
 
@@ -13,9 +13,9 @@ college_model_data = main_admittance_predictor()
 
 @app.route('/predict', methods=['post'])
 def predict():
-	ipdb.set_trace()
-	print(request.json['data'])
-	request_data = request.json['data']
+	print("\n")
+	request_data = request.get_json()
+	print(request_data)
 	gpa = request_data['gpa']
 	sat = request_data['sat']
 	colleges = request_data['colleges']
@@ -31,4 +31,4 @@ def predict():
 
 
 if __name__ == '__main__':
-	app.run(host= '0.0.0.0', port=9000, debug=False)
+	app.run(host= '127.0.0.1', port=9000, debug=False)

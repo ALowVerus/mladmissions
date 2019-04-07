@@ -2,50 +2,45 @@ import json
 import requests
 import time
 import urllib
+import urllib3
 
 # TOKEN = "708703702:AAG1Kkk4R2h_ePrillz-5ADIoCoGEiIMSE0"
 TOKEN = "750446084:AAGWgtASCQwgiVNB5ZpbqOvR64uVtO2fuJ0"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
+
 
 def get_url(url):
 	response = requests.get(url)
 	content = response.content.decode("utf8")
 	return content
 
+
 def get_json_from_url(url):
 	content = get_url(url)
 	js = json.loads(content)
 	return js
 
+
 # postData - sends student data in JSON request to python server
 def postData(gpa, score, schoolList):
 	print("\t\tReached the post request")
 	# data to be sent to api as JSON
-	jData = {
-		"data": {
-				"sat": score, 	# int in range 0-36 or 0-1600
-				"gpa": gpa, 	# float between 0.0 and 4.0
-				"colleges": schoolList
-			}
-		} # list of school names as strings
-	print("\t\tMade JSON")
-	# storing post request response (DON'T KNOW WHAT I'M DOING WITH LOADING)
-	# import ipdb;ipdb.set_trace()
-	rawResponse = requests.post("http://0.0.0.0:9000/predict", json.loads(jData)) # 10.142.0.2
-	print("\t\tPost request done")
-	# response = {
-	# 		'data': {
-	# 			'colleges': {
-	# 				'Dartmouth': 0.80,
-	# 				'Northeastern': 0.35
-	# 			}
-	# 		}
-	# 	}
+	json_to_dump = {
+		"sat": score,
+		"gpa": gpa,
+		"colleges": schoolList
+	}
+	jsoned_data = json.dumps(json_to_dump)
+	http = urllib3.PoolManager()
+	r = http.request("POST", "http://127.0.0.1:9000/predict", body=jsoned_data, headers={'Content-Type': 'application/json'})
+	data = str(r.data)
+	print("YOU GOT MAIL!" + data[2:-1])
+	data = json.loads(data[2:-1])
 	print("\t\tMade JSON response")
-	response = json.loads( rawResponse )
-	print("\t\tResponse: ", response)
+	print("\t\tResponse: ", data)
 	# return post response data
-	return response
+	return data
+
 
 # getEachChance - iterates over returned JSON object and returns list of chances
 def getEachChance(schoolData):
@@ -58,6 +53,7 @@ def getEachChance(schoolData):
 				probList.append( schoolData[data][school][chance] )
 	# return simple list of all probabilities
 	return probList
+
 
 # noneChance - calculate likelihood of getting into none of the schools
 def noneChance(schoolData):
@@ -72,6 +68,7 @@ def noneChance(schoolData):
 	# return probability that user gets into none of their chosen schools
 	return probNone
 
+
 # totalChance - calculates likelihood of getting into a given number of schools
 def totalChance(numCurious, schoolData):
 	# calculate probability that no acceptances happen
@@ -80,6 +77,7 @@ def totalChance(numCurious, schoolData):
 	totProb = numCurious - probNone
 	# return chance of getting into given number of schools out of chosen schools
 	return totProb
+
 
 # sendGivenStats - builds and sends a message with the results the user has given
 def sendGivenStats(updates, gpaVal, actChoice, stdVal, chosenSchools):
@@ -108,6 +106,7 @@ def sendGivenStats(updates, gpaVal, actChoice, stdVal, chosenSchools):
 	theirStats += schoolMsg
 	replyMessage(updates, theirStats)
 
+
 # sendResultsMessage - sends a formatted results message
 def sendResultsMessage(updates, schoolData, getOne, getNone):
 	global curStep # Current step in the interaction process
@@ -133,6 +132,7 @@ def sendResultsMessage(updates, schoolData, getOne, getNone):
 	resMsg += "    Chance of not getting into any of the schools: " + str(int(getNone * 100)) + "%\n\n"
 	# send the completed message
 	replyMessage(updates, resMsg)
+
 
 # resultsHandler - handles (through delegation) all results related stuff
 def resultsHandler(updates):
@@ -404,4 +404,5 @@ def main():
 		time.sleep(0.5)
 
 if __name__ == '__main__':
+	# postData(3.95, 1500, ["Dartmouth College"])
 	main()

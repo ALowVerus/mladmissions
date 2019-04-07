@@ -7,8 +7,6 @@ from imblearn.over_sampling import SMOTE
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.gaussian_process import GaussianProcessClassifier
-from sklearn.gaussian_process.kernels import RBF
 
 
 prefix = os.path.dirname(os.path.realpath(__file__)) + "/"
