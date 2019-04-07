@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from imblearn.over_sampling import SMOTE
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.gaussian_process import GaussianProcessClassifier
@@ -53,10 +53,10 @@ def process_data(data, college, knn_cons, showing_plots=True):
 def main():
     showing_plots = False
 
-    with open("admissions_info_dict.json", "r") as fp:
-        admissions_info_dict = json.load(fp)
-
     # Convert data into CSV format for management
+    with open(prefix + "admissions_info_dict.json", "r") as fp:
+        admissions_info_dict = json.load(fp)
+        fp.close()
     college_specific_data = {}
     for college, scores in admissions_info_dict.items():
         ivs = ["type", "act", "sat2400", "gpaWeighted", "gpaCumulative", "satConcorded"]
@@ -76,6 +76,7 @@ def main():
             fp.close()
         college_specific_data[college] = {}
         college_specific_data[college]["entries"] = pd.read_csv(prefix + "csv.csv")
+    os.remove(prefix + "csv.csv")
 
     print(college_specific_data["Harvard College"]["entries"].head())
 

@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ab78406-cb50-47bc-84a3-fd5b3014d5fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/hackdarthmouth-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/hackdarthmouth-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackdarthmouth.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hackdarthmouth.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navianceScraper/admissions_info_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/admissions_info_dict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/hackdarthmouth-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brown.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/colby.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/columbia.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dartmouth.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dartmouth.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackdarthmouth.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harvard.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/navianceScraper/admittance_predictor.py" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/admittance_predictor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navianceScraper/college_link_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/college_link_dict.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navianceScraper/csv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/csv.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navianceScraper/naviance_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/naviance_scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navianceScraper/csv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northeastern.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/princeton.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,47 +30,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/navianceScraper/admittance_predictor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-137">
-              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/discriminant_analysis.py">
+        <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="791" column="11" lean-forward="true" selection-start-line="791" selection-start-column="11" selection-end-line="791" selection-end-column="11" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/neighbors/base.py">
+        <entry file="file://$PROJECT_DIR$/server/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="415" selection-start-line="415" selection-end-line="415" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navianceScraper/admissions_info_dict.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding>
-                <element signature="e#21#1648#0" />
-                <element signature="e#1676#6377#0" />
-                <element signature="e#6404#16918#0" />
-                <element signature="e#16943#21124#0" />
-                <element signature="e#21148#29297#0" />
-                <element signature="e#29320#36929#0" />
-                <element signature="e#36960#45123#0" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -82,6 +69,7 @@
       <find>&lt;a</find>
       <find>D</find>
       <find>1467</find>
+      <find>other</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,14 +86,15 @@
         <option value="$PROJECT_DIR$/navianceScraper/secretsTemplate.json" />
         <option value="$PROJECT_DIR$/.ipynb_checkpoints/hackdarthmouth-checkpoint.ipynb" />
         <option value="$PROJECT_DIR$/navianceScraper/naviance_scraper.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/server/server.py" />
         <option value="$PROJECT_DIR$/navianceScraper/admittance_predictor.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="3" />
-    <option name="width" value="929" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="width" value="959" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -122,17 +111,22 @@
             <path>
               <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
               <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
-              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
               <item name="navianceScraper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
               <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
               <item name="telegramBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
+              <item name="webForm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.admittance_predictor">
+  <component name="RunManager" selected="Python.server (1)">
     <configuration name="admittance_predictor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mladmissions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,8 +223,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mladmissions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mladmissions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.admittance_predictor" />
         <item itemvalue="Python.naviance_scraper" />
         <item itemvalue="Python.guidanceBot" />
@@ -251,11 +289,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="0" width="959" height="1052" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.088541664" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17726798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
@@ -267,7 +305,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.16684155" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.1670168" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -555,16 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/telegramBot/guidanceBot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="281" column="18" lean-forward="true" selection-start-line="281" selection-end-line="282" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/navianceScraper/college_specific_csv/Colby_College.csv">
       <provider selected="true" editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
@@ -631,6 +659,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/neighbors/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="415" selection-start-line="415" selection-end-line="415" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dartmouth.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdarthmouth.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/discriminant_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5138">
+          <caret line="791" column="11" lean-forward="true" selection-start-line="791" selection-start-column="11" selection-end-line="791" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/navianceScraper/admissions_info_dict.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -647,27 +699,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/neighbors/base.py">
+    <entry file="file://$PROJECT_DIR$/telegramBot/guidanceBot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="415" selection-start-line="415" selection-end-line="415" />
+        <state relative-caret-position="4215">
+          <caret line="281" column="18" selection-start-line="281" selection-end-line="282" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/discriminant_analysis.py">
+    <entry file="file://$PROJECT_DIR$/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="791" column="11" lean-forward="true" selection-start-line="791" selection-start-column="11" selection-end-line="791" selection-end-column="11" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/navianceScraper/admittance_predictor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-137">
-          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
