@@ -2,9 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import WebDriverException
-from bs4 import BeautifulSoup
 import json
 from time import sleep
 import os
@@ -128,30 +126,9 @@ def main_pull_naviance():
         json.dump(admissions_info_dict, fp, indent=2)
         fp.close()
 
-    for college, scores in admissions_info_dict.items():
-        ivs = ["type", "act", "sat2400", "gpaWeighted", "gpaCumulative", "satConcorded"]
-        dvs = ["resultCode"]
-        with open(prefix + "csv.csv", "w") as fp:
-            for iv in ivs:
-                fp.write(iv + ",")
-            for dv in dvs:
-                fp.write(dv)
-            fp.write("\n")
-            for score in scores:
-                for iv in ivs:
-                    fp.write(str(score[iv]) + ",")
-                for dv in dvs:
-                    fp.write(str(score[dv]))
-                fp.write("\n")
-            fp.close()
-
-    # Predict wins/losses
-    applying_colleges = []
-    for college in applying_colleges:
-        change_admitted = 0.1
-
     # Exit
     driver.close()
 
 
-main_pull_naviance()
+if __name__ == '__main__':
+    main_pull_naviance()

@@ -1,2248 +1,2248 @@
 {
-  "Dartmouth College": [
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.212,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9534
-    },
-    {
-      "sat2400": 2010,
-      "gpaWeighted": 3.8983,
-      "satConcorded": 1410,
-      "act": 27,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8983
-    },
-    {
-      "sat2400": 1930,
-      "gpaWeighted": 3.6016,
-      "satConcorded": 1370,
-      "act": 28,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.6016
-    },
-    {
-      "sat2400": 1930,
-      "gpaWeighted": 3.6016,
-      "satConcorded": 1370,
-      "act": 28,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.6016
-    },
-    {
-      "sat2400": 2160,
-      "gpaWeighted": 3.4275,
-      "satConcorded": 1500,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.4275
-    },
-    {
-      "sat2400": 2230,
-      "gpaWeighted": 3.5551,
-      "satConcorded": 1530,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 3.5551
-    },
-    {
-      "sat2400": 2040,
-      "gpaWeighted": 4.1642,
-      "satConcorded": 1430,
-      "act": 0,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 4.1642
-    },
-    {
-      "sat2400": 1860,
-      "gpaWeighted": 3.6894,
-      "satConcorded": 1320,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 3.6894
-    },
-    {
-      "sat2400": 1970,
-      "gpaWeighted": 4.1785,
-      "satConcorded": 1390,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.1785
-    },
-    {
-      "sat2400": 1820,
-      "gpaWeighted": 3.6188,
-      "satConcorded": 1300,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.6188
-    },
-    {
-      "sat2400": 2210,
-      "gpaWeighted": 4.1483,
-      "satConcorded": 1520,
-      "act": 33,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1483
-    },
-    {
-      "sat2400": 1430,
-      "gpaWeighted": 3.3566,
-      "satConcorded": 1050,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3566
-    },
-    {
-      "sat2400": 1910,
-      "gpaWeighted": 3.7375,
-      "satConcorded": 1350,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.7375
-    },
-    {
-      "sat2400": 1800,
-      "gpaWeighted": 4.0238,
-      "satConcorded": 1290,
-      "act": 26,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0238
-    },
-    {
-      "sat2400": 1800,
-      "gpaWeighted": 4.0238,
-      "satConcorded": 1290,
-      "act": 26,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0238
-    },
-    {
-      "sat2400": 1970,
-      "gpaWeighted": 3.8189,
-      "satConcorded": 1390,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8189
-    },
-    {
-      "sat2400": 1740,
-      "gpaWeighted": 4.1554,
-      "satConcorded": 1250,
-      "act": 29,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1554
-    },
-    {
-      "sat2400": 2280,
-      "gpaWeighted": 4.3571,
-      "satConcorded": 1550,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.3571
-    },
-    {
-      "sat2400": 2110,
-      "gpaWeighted": 4.2589,
-      "satConcorded": 1470,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.2589
-    },
-    {
-      "sat2400": 1790,
-      "gpaWeighted": 3.4818,
-      "satConcorded": 1280,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.4818
-    },
-    {
-      "sat2400": 2200,
-      "gpaWeighted": 3.9867,
-      "satConcorded": 1510,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9867
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.3164,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3164
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 3.9544,
-      "satConcorded": 0,
-      "act": 29,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9544
-    }
-  ],
   "Colby College": [
     {
       "sat2400": 1360,
-      "gpaWeighted": 2.6943,
-      "satConcorded": 1000,
-      "act": 20,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 2.6188
+      "satConcorded": 1000,
+      "gpaCumulative": 2.6188,
+      "act": 20,
+      "gpaWeighted": 2.6943
     },
     {
       "sat2400": 1800,
-      "gpaWeighted": 3.6116,
-      "satConcorded": 1290,
-      "act": 25,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.345
+      "satConcorded": 1290,
+      "gpaCumulative": 3.345,
+      "act": 25,
+      "gpaWeighted": 3.6116
     },
     {
       "sat2400": 2110,
-      "gpaWeighted": 4.2589,
-      "satConcorded": 1470,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 4.2589
+      "satConcorded": 1470,
+      "gpaCumulative": 4.2589,
+      "act": 0,
+      "gpaWeighted": 4.2589
     },
     {
       "sat2400": 1820,
-      "gpaWeighted": 3.7321,
-      "satConcorded": 1300,
-      "act": 28,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.7321
+      "satConcorded": 1300,
+      "gpaCumulative": 3.7321,
+      "act": 28,
+      "gpaWeighted": 3.7321
     },
     {
       "sat2400": 2070,
-      "gpaWeighted": 3.9276,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 1450,
+      "gpaCumulative": 3.9276,
       "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9276
+      "gpaWeighted": 3.9276
     },
     {
       "sat2400": 1780,
-      "gpaWeighted": 3.5607,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 1270,
+      "gpaCumulative": 3.5607,
       "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5607
+      "gpaWeighted": 3.5607
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.8661,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.8661,
       "act": 34,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8661
+      "gpaWeighted": 3.8661
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.9509,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.9509,
       "act": 33,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9509
+      "gpaWeighted": 3.9509
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.793,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.793,
       "act": 32,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.793
-    }
-  ],
-  "Columbia University": [
-    {
-      "sat2400": 0,
-      "gpaWeighted": 3.4789,
-      "satConcorded": 0,
-      "act": 24,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.4438
-    },
-    {
-      "sat2400": 1890,
-      "gpaWeighted": 3.566,
-      "satConcorded": 1340,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5303
-    },
-    {
-      "sat2400": 1440,
-      "gpaWeighted": 3.3948,
-      "satConcorded": 1050,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.2741
-    },
-    {
-      "sat2400": 2090,
-      "gpaWeighted": 3.3017,
-      "satConcorded": 1460,
-      "act": 0,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 3.2482
-    },
-    {
-      "sat2400": 2090,
-      "gpaWeighted": 3.3017,
-      "satConcorded": 1460,
-      "act": 0,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 3.2482
-    },
-    {
-      "sat2400": 2030,
-      "gpaWeighted": 3.9161,
-      "satConcorded": 1430,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9161
-    },
-    {
-      "sat2400": 2150,
-      "gpaWeighted": 4.0238,
-      "satConcorded": 1490,
-      "act": 31,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.0238
-    },
-    {
-      "sat2400": 2030,
-      "gpaWeighted": 4.0112,
-      "satConcorded": 1430,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.0112
-    },
-    {
-      "sat2400": 2300,
-      "gpaWeighted": 3.8968,
-      "satConcorded": 1560,
-      "act": 0,
-      "resultCode": 1,
-      "type": "ED",
-      "gpaCumulative": 3.8968
-    },
-    {
-      "sat2400": 1980,
-      "gpaWeighted": 3.8142,
-      "satConcorded": 1400,
-      "act": 26,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8142
-    },
-    {
-      "sat2400": 2000,
-      "gpaWeighted": 4.1892,
-      "satConcorded": 1410,
-      "act": 0,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 4.1892
-    },
-    {
-      "sat2400": 1550,
-      "gpaWeighted": 3.4614,
-      "satConcorded": 1120,
-      "act": 17,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 3.4614
-    },
-    {
-      "sat2400": 1880,
-      "gpaWeighted": 3.5607,
-      "satConcorded": 1340,
-      "act": 27,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5607
-    },
-    {
-      "sat2400": 2180,
-      "gpaWeighted": 4.1321,
-      "satConcorded": 1510,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1321
-    },
-    {
-      "sat2400": 2020,
-      "gpaWeighted": 3.5857,
-      "satConcorded": 1420,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5857
-    },
-    {
-      "sat2400": 1520,
-      "gpaWeighted": 3.4129,
-      "satConcorded": 1110,
-      "act": 24,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.4129
-    },
-    {
-      "sat2400": 2090,
-      "gpaWeighted": 4.1339,
-      "satConcorded": 1460,
-      "act": 0,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 4.1339
-    },
-    {
-      "sat2400": 2240,
-      "gpaWeighted": 4.2714,
-      "satConcorded": 1530,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.2714
-    },
-    {
-      "sat2400": 1700,
-      "gpaWeighted": 3.8357,
-      "satConcorded": 1220,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8357
-    },
-    {
-      "sat2400": 2210,
-      "gpaWeighted": 4.007,
-      "satConcorded": 1520,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.007
-    },
-    {
-      "sat2400": 2110,
-      "gpaWeighted": 3.9052,
-      "satConcorded": 1470,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9052
-    },
-    {
-      "sat2400": 1830,
-      "gpaWeighted": 3.3827,
-      "satConcorded": 1300,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3827
-    },
-    {
-      "sat2400": 1630,
-      "gpaWeighted": 2.9035,
-      "satConcorded": 1180,
-      "act": 0,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 2.9035
-    },
-    {
-      "sat2400": 1820,
-      "gpaWeighted": 3.6188,
-      "satConcorded": 1300,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.6188
-    },
-    {
-      "sat2400": 2330,
-      "gpaWeighted": 3.8087,
-      "satConcorded": 1570,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8087
-    },
-    {
-      "sat2400": 1690,
-      "gpaWeighted": 3.6307,
-      "satConcorded": 1210,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 3.6307
-    },
-    {
-      "sat2400": 2270,
-      "gpaWeighted": 4.0892,
-      "satConcorded": 1550,
-      "act": 0,
-      "resultCode": 1,
-      "type": "ED",
-      "gpaCumulative": 4.0892
-    },
-    {
-      "sat2400": 2170,
-      "gpaWeighted": 4.2464,
-      "satConcorded": 1500,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.2464
-    },
-    {
-      "sat2400": 2270,
-      "gpaWeighted": 3.9266,
-      "satConcorded": 1550,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9266
-    },
-    {
-      "sat2400": 2320,
-      "gpaWeighted": 4.275,
-      "satConcorded": 1570,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.275
-    },
-    {
-      "sat2400": 2110,
-      "gpaWeighted": 3.9672,
-      "satConcorded": 1470,
-      "act": 30,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 3.9672
-    },
-    {
-      "sat2400": 1860,
-      "gpaWeighted": 3.3892,
-      "satConcorded": 1320,
-      "act": 27,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3892
-    },
-    {
-      "sat2400": 1860,
-      "gpaWeighted": 3.3892,
-      "satConcorded": 1320,
-      "act": 27,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3892
-    },
-    {
-      "sat2400": 1810,
-      "gpaWeighted": 3.3795,
-      "satConcorded": 1290,
-      "act": 28,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3795
-    },
-    {
-      "sat2400": 1860,
-      "gpaWeighted": 3.8714,
-      "satConcorded": 1320,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8714
-    },
-    {
-      "sat2400": 1890,
-      "gpaWeighted": 3.2543,
-      "satConcorded": 1340,
-      "act": 26,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.2543
-    },
-    {
-      "sat2400": 1430,
-      "gpaWeighted": 3.3566,
-      "satConcorded": 1050,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3566
-    },
-    {
-      "sat2400": 1570,
-      "gpaWeighted": 3.4074,
-      "satConcorded": 1140,
-      "act": 20,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.4074
-    },
-    {
-      "sat2400": 1800,
-      "gpaWeighted": 4.0238,
-      "satConcorded": 1290,
-      "act": 26,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0238
-    },
-    {
-      "sat2400": 1690,
-      "gpaWeighted": 2.4767,
-      "satConcorded": 1210,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 2.4767
-    },
-    {
-      "sat2400": 2280,
-      "gpaWeighted": 4.3571,
-      "satConcorded": 1550,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.3571
-    },
-    {
-      "sat2400": 2170,
-      "gpaWeighted": 4.1455,
-      "satConcorded": 1500,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1455
-    },
-    {
-      "sat2400": 1890,
-      "gpaWeighted": 3.5096,
-      "satConcorded": 1340,
-      "act": 27,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5096
-    },
-    {
-      "sat2400": 1840,
-      "gpaWeighted": 3.7725,
-      "satConcorded": 1310,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.7725
-    },
-    {
-      "sat2400": 1740,
-      "gpaWeighted": 4.1518,
-      "satConcorded": 1250,
-      "act": 34,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1518
-    },
-    {
-      "sat2400": 1780,
-      "gpaWeighted": 3.5607,
-      "satConcorded": 1270,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5607
-    },
-    {
-      "sat2400": 2330,
-      "gpaWeighted": 4.3397,
-      "satConcorded": 1570,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3397
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 3.7179,
-      "satConcorded": 0,
-      "act": 29,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.7179
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.3164,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.3164
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.1679,
-      "satConcorded": 0,
-      "act": 29,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1679
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.2107,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.2107
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.0661,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0661
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.3709,
-      "satConcorded": 0,
-      "act": 32,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3709
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 3.9544,
-      "satConcorded": 0,
-      "act": 29,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9544
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.2982,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.2982
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 3.3321,
-      "satConcorded": 0,
-      "act": 19,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3321
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.1795,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "ED",
-      "gpaCumulative": 4.1795
-    },
-    {
-      "sat2400": 2100,
-      "gpaWeighted": 4.1018,
-      "satConcorded": 1470,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.1018
-    }
-  ],
-  "Harvard College": [
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.212,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9534
-    },
-    {
-      "sat2400": 2290,
-      "gpaWeighted": 3.7683,
-      "satConcorded": 1550,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.7683
-    },
-    {
-      "sat2400": 2220,
-      "gpaWeighted": 4.0557,
-      "satConcorded": 1520,
-      "act": 32,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0557
-    },
-    {
-      "sat2400": 2240,
-      "gpaWeighted": 3.9654,
-      "satConcorded": 1530,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9654
-    },
-    {
-      "sat2400": 1260,
-      "gpaWeighted": 2.2925,
-      "satConcorded": 930,
-      "act": 19,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 2.2925
-    },
-    {
-      "sat2400": 2150,
-      "gpaWeighted": 4.0238,
-      "satConcorded": 1490,
-      "act": 31,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0238
-    },
-    {
-      "sat2400": 2030,
-      "gpaWeighted": 4.0112,
-      "satConcorded": 1430,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0112
-    },
-    {
-      "sat2400": 2230,
-      "gpaWeighted": 3.5551,
-      "satConcorded": 1530,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5551
-    },
-    {
-      "sat2400": 1880,
-      "gpaWeighted": 3.5607,
-      "satConcorded": 1340,
-      "act": 27,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5607
-    },
-    {
-      "sat2400": 2240,
-      "gpaWeighted": 4.2714,
-      "satConcorded": 1530,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.2714
-    },
-    {
-      "sat2400": 2090,
-      "gpaWeighted": 4.1339,
-      "satConcorded": 1460,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1339
-    },
-    {
-      "sat2400": 2180,
-      "gpaWeighted": 4.1321,
-      "satConcorded": 1510,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1321
-    },
-    {
-      "sat2400": 1580,
-      "gpaWeighted": 3.425,
-      "satConcorded": 1140,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.425
-    },
-    {
-      "sat2400": 1890,
-      "gpaWeighted": 3.5589,
-      "satConcorded": 1340,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5589
-    },
-    {
-      "sat2400": 2180,
-      "gpaWeighted": 4.1321,
-      "satConcorded": 1510,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1321
-    },
-    {
-      "sat2400": 1970,
-      "gpaWeighted": 2.6052,
-      "satConcorded": 1390,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 2.6052
-    },
-    {
-      "sat2400": 2100,
-      "gpaWeighted": 3.4482,
-      "satConcorded": 1470,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.4482
-    },
-    {
-      "sat2400": 2040,
-      "gpaWeighted": 4.1642,
-      "satConcorded": 1430,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1642
-    },
-    {
-      "sat2400": 2330,
-      "gpaWeighted": 3.8087,
-      "satConcorded": 1570,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8087
-    },
-    {
-      "sat2400": 2050,
-      "gpaWeighted": 4.3125,
-      "satConcorded": 1440,
-      "act": 33,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3125
-    },
-    {
-      "sat2400": 2170,
-      "gpaWeighted": 4.2464,
-      "satConcorded": 1500,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.2464
-    },
-    {
-      "sat2400": 2270,
-      "gpaWeighted": 3.9266,
-      "satConcorded": 1550,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9266
-    },
-    {
-      "sat2400": 2210,
-      "gpaWeighted": 4.1483,
-      "satConcorded": 1520,
-      "act": 33,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.1483
-    },
-    {
-      "sat2400": 1920,
-      "gpaWeighted": 3.4196,
-      "satConcorded": 1360,
-      "act": 0,
-      "resultCode": 2,
-      "type": "REA",
-      "gpaCumulative": 3.4196
-    },
-    {
-      "sat2400": 1720,
-      "gpaWeighted": 3.6892,
-      "satConcorded": 1230,
-      "act": 24,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.6892
-    },
-    {
-      "sat2400": 1860,
-      "gpaWeighted": 3.8714,
-      "satConcorded": 1320,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.8714
-    },
-    {
-      "sat2400": 2320,
-      "gpaWeighted": 4.275,
-      "satConcorded": 1570,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.275
-    },
-    {
-      "sat2400": 2110,
-      "gpaWeighted": 3.9672,
-      "satConcorded": 1470,
-      "act": 30,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9672
-    },
-    {
-      "sat2400": 2330,
-      "gpaWeighted": 4.3397,
-      "satConcorded": 1570,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3397
-    },
-    {
-      "sat2400": 2040,
-      "gpaWeighted": 4.3912,
-      "satConcorded": 1430,
-      "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 4.3912
-    },
-    {
-      "sat2400": 2280,
-      "gpaWeighted": 4.3571,
-      "satConcorded": 1550,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3571
-    },
-    {
-      "sat2400": 2130,
-      "gpaWeighted": 3.9945,
-      "satConcorded": 1480,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9945
-    },
-    {
-      "sat2400": 1740,
-      "gpaWeighted": 3.5439,
-      "satConcorded": 1250,
-      "act": 26,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5439
-    },
-    {
-      "sat2400": 1540,
-      "gpaWeighted": 2.9357,
-      "satConcorded": 1120,
-      "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 2.9357
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.3164,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3164
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.0382,
-      "satConcorded": 0,
-      "act": 24,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0382
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.2172,
-      "satConcorded": 0,
-      "act": 36,
-      "resultCode": 1,
-      "type": "REA",
-      "gpaCumulative": 4.2172
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.2107,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.2107
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.0661,
-      "satConcorded": 0,
-      "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0661
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.2327,
-      "satConcorded": 0,
-      "act": 32,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.2327
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.4509,
-      "satConcorded": 0,
-      "act": 34,
-      "resultCode": 1,
-      "type": "REA",
-      "gpaCumulative": 4.4509
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 3.3214,
-      "satConcorded": 0,
-      "act": 26,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3214
+      "gpaWeighted": 3.793
     }
   ],
   "Princeton University": [
     {
       "sat2400": 1580,
-      "gpaWeighted": 3.0558,
-      "satConcorded": 1140,
-      "act": 19,
       "resultCode": 2,
       "type": "ROLL",
-      "gpaCumulative": 3.0117
+      "satConcorded": 1140,
+      "gpaCumulative": 3.0117,
+      "act": 19,
+      "gpaWeighted": 3.0558
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.212,
-      "satConcorded": 0,
-      "act": 35,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.9534
+      "satConcorded": 0,
+      "gpaCumulative": 3.9534,
+      "act": 35,
+      "gpaWeighted": 4.212
     },
     {
       "sat2400": 2030,
-      "gpaWeighted": 4.0112,
-      "satConcorded": 1430,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.0112
+      "satConcorded": 1430,
+      "gpaCumulative": 4.0112,
+      "act": 0,
+      "gpaWeighted": 4.0112
     },
     {
       "sat2400": 2150,
-      "gpaWeighted": 4.0238,
-      "satConcorded": 1490,
-      "act": 31,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.0238
+      "satConcorded": 1490,
+      "gpaCumulative": 4.0238,
+      "act": 31,
+      "gpaWeighted": 4.0238
     },
     {
       "sat2400": 1760,
-      "gpaWeighted": 3.7447,
-      "satConcorded": 1260,
-      "act": 0,
       "resultCode": 2,
       "type": "REA",
-      "gpaCumulative": 3.7447
+      "satConcorded": 1260,
+      "gpaCumulative": 3.7447,
+      "act": 0,
+      "gpaWeighted": 3.7447
     },
     {
       "sat2400": 2230,
-      "gpaWeighted": 3.5551,
-      "satConcorded": 1530,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.5551
+      "satConcorded": 1530,
+      "gpaCumulative": 3.5551,
+      "act": 0,
+      "gpaWeighted": 3.5551
     },
     {
       "sat2400": 2090,
-      "gpaWeighted": 4.1339,
-      "satConcorded": 1460,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 4.1339
+      "satConcorded": 1460,
+      "gpaCumulative": 4.1339,
+      "act": 0,
+      "gpaWeighted": 4.1339
     },
     {
       "sat2400": 1890,
-      "gpaWeighted": 3.5589,
-      "satConcorded": 1340,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.5589
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5589,
+      "act": 0,
+      "gpaWeighted": 3.5589
     },
     {
       "sat2400": 1700,
-      "gpaWeighted": 3.8357,
-      "satConcorded": 1220,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.8357
+      "satConcorded": 1220,
+      "gpaCumulative": 3.8357,
+      "act": 0,
+      "gpaWeighted": 3.8357
     },
     {
       "sat2400": 2100,
-      "gpaWeighted": 3.4482,
-      "satConcorded": 1470,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.4482
+      "satConcorded": 1470,
+      "gpaCumulative": 3.4482,
+      "act": 0,
+      "gpaWeighted": 3.4482
     },
     {
       "sat2400": 2040,
-      "gpaWeighted": 4.1642,
-      "satConcorded": 1430,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.1642
+      "satConcorded": 1430,
+      "gpaCumulative": 4.1642,
+      "act": 0,
+      "gpaWeighted": 4.1642
     },
     {
       "sat2400": 2170,
-      "gpaWeighted": 4.2464,
-      "satConcorded": 1500,
-      "act": 0,
       "resultCode": 2,
       "type": "REA",
-      "gpaCumulative": 4.2464
+      "satConcorded": 1500,
+      "gpaCumulative": 4.2464,
+      "act": 0,
+      "gpaWeighted": 4.2464
     },
     {
       "sat2400": 2270,
-      "gpaWeighted": 3.9266,
-      "satConcorded": 1550,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.9266
+      "satConcorded": 1550,
+      "gpaCumulative": 3.9266,
+      "act": 0,
+      "gpaWeighted": 3.9266
     },
     {
       "sat2400": 2320,
-      "gpaWeighted": 4.275,
-      "satConcorded": 1570,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.275
+      "satConcorded": 1570,
+      "gpaCumulative": 4.275,
+      "act": 0,
+      "gpaWeighted": 4.275
     },
     {
       "sat2400": 2110,
-      "gpaWeighted": 3.9672,
-      "satConcorded": 1470,
-      "act": 30,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.9672
+      "satConcorded": 1470,
+      "gpaCumulative": 3.9672,
+      "act": 30,
+      "gpaWeighted": 3.9672
     },
     {
       "sat2400": 2280,
-      "gpaWeighted": 4.3571,
-      "satConcorded": 1550,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 4.3571
+      "satConcorded": 1550,
+      "gpaCumulative": 4.3571,
+      "act": 0,
+      "gpaWeighted": 4.3571
     },
     {
       "sat2400": 2110,
-      "gpaWeighted": 4.2589,
-      "satConcorded": 1470,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.2589
+      "satConcorded": 1470,
+      "gpaCumulative": 4.2589,
+      "act": 0,
+      "gpaWeighted": 4.2589
     },
     {
       "sat2400": 1740,
-      "gpaWeighted": 3.5439,
-      "satConcorded": 1250,
-      "act": 26,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.5439
+      "satConcorded": 1250,
+      "gpaCumulative": 3.5439,
+      "act": 26,
+      "gpaWeighted": 3.5439
     },
     {
       "sat2400": 1540,
-      "gpaWeighted": 2.9357,
-      "satConcorded": 1120,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 2.9357
+      "satConcorded": 1120,
+      "gpaCumulative": 2.9357,
+      "act": 0,
+      "gpaWeighted": 2.9357
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.3164,
-      "satConcorded": 0,
-      "act": 35,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 4.3164
-    },
-    {
-      "sat2400": 0,
-      "gpaWeighted": 4.0661,
       "satConcorded": 0,
+      "gpaCumulative": 4.3164,
       "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.0661
+      "gpaWeighted": 4.3164
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.3709,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 4.0661,
+      "act": 35,
+      "gpaWeighted": 4.0661
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.3709,
       "act": 32,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3709
+      "gpaWeighted": 4.3709
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.2172,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 4.2172,
       "act": 36,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.2172
+      "gpaWeighted": 4.2172
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.3321,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.3321,
       "act": 19,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.3321
+      "gpaWeighted": 3.3321
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.4509,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 4.4509,
       "act": 34,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.4509
+      "gpaWeighted": 4.4509
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.9544,
-      "satConcorded": 0,
-      "act": 29,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.9544
+      "satConcorded": 0,
+      "gpaCumulative": 3.9544,
+      "act": 29,
+      "gpaWeighted": 3.9544
+    }
+  ],
+  "Columbia University": [
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 3.4438,
+      "act": 24,
+      "gpaWeighted": 3.4789
+    },
+    {
+      "sat2400": 1890,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5303,
+      "act": 0,
+      "gpaWeighted": 3.566
+    },
+    {
+      "sat2400": 1440,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1050,
+      "gpaCumulative": 3.2741,
+      "act": 0,
+      "gpaWeighted": 3.3948
+    },
+    {
+      "sat2400": 2090,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 1460,
+      "gpaCumulative": 3.2482,
+      "act": 0,
+      "gpaWeighted": 3.3017
+    },
+    {
+      "sat2400": 2090,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 1460,
+      "gpaCumulative": 3.2482,
+      "act": 0,
+      "gpaWeighted": 3.3017
+    },
+    {
+      "sat2400": 2030,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1430,
+      "gpaCumulative": 3.9161,
+      "act": 0,
+      "gpaWeighted": 3.9161
+    },
+    {
+      "sat2400": 2150,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1490,
+      "gpaCumulative": 4.0238,
+      "act": 31,
+      "gpaWeighted": 4.0238
+    },
+    {
+      "sat2400": 2030,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1430,
+      "gpaCumulative": 4.0112,
+      "act": 0,
+      "gpaWeighted": 4.0112
+    },
+    {
+      "sat2400": 2300,
+      "resultCode": 1,
+      "type": "ED",
+      "satConcorded": 1560,
+      "gpaCumulative": 3.8968,
+      "act": 0,
+      "gpaWeighted": 3.8968
+    },
+    {
+      "sat2400": 1980,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1400,
+      "gpaCumulative": 3.8142,
+      "act": 26,
+      "gpaWeighted": 3.8142
+    },
+    {
+      "sat2400": 2000,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 1410,
+      "gpaCumulative": 4.1892,
+      "act": 0,
+      "gpaWeighted": 4.1892
+    },
+    {
+      "sat2400": 1550,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1120,
+      "gpaCumulative": 3.4614,
+      "act": 17,
+      "gpaWeighted": 3.4614
+    },
+    {
+      "sat2400": 1880,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5607,
+      "act": 27,
+      "gpaWeighted": 3.5607
+    },
+    {
+      "sat2400": 2180,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1510,
+      "gpaCumulative": 4.1321,
+      "act": 0,
+      "gpaWeighted": 4.1321
+    },
+    {
+      "sat2400": 2020,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1420,
+      "gpaCumulative": 3.5857,
+      "act": 0,
+      "gpaWeighted": 3.5857
+    },
+    {
+      "sat2400": 1520,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1110,
+      "gpaCumulative": 3.4129,
+      "act": 24,
+      "gpaWeighted": 3.4129
+    },
+    {
+      "sat2400": 2090,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 1460,
+      "gpaCumulative": 4.1339,
+      "act": 0,
+      "gpaWeighted": 4.1339
+    },
+    {
+      "sat2400": 2240,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1530,
+      "gpaCumulative": 4.2714,
+      "act": 0,
+      "gpaWeighted": 4.2714
+    },
+    {
+      "sat2400": 1700,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1220,
+      "gpaCumulative": 3.8357,
+      "act": 0,
+      "gpaWeighted": 3.8357
+    },
+    {
+      "sat2400": 2210,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1520,
+      "gpaCumulative": 4.007,
+      "act": 0,
+      "gpaWeighted": 4.007
+    },
+    {
+      "sat2400": 2110,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1470,
+      "gpaCumulative": 3.9052,
+      "act": 0,
+      "gpaWeighted": 3.9052
+    },
+    {
+      "sat2400": 1830,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1300,
+      "gpaCumulative": 3.3827,
+      "act": 0,
+      "gpaWeighted": 3.3827
+    },
+    {
+      "sat2400": 1630,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 1180,
+      "gpaCumulative": 2.9035,
+      "act": 0,
+      "gpaWeighted": 2.9035
+    },
+    {
+      "sat2400": 1820,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1300,
+      "gpaCumulative": 3.6188,
+      "act": 0,
+      "gpaWeighted": 3.6188
+    },
+    {
+      "sat2400": 2330,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1570,
+      "gpaCumulative": 3.8087,
+      "act": 0,
+      "gpaWeighted": 3.8087
+    },
+    {
+      "sat2400": 1690,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1210,
+      "gpaCumulative": 3.6307,
+      "act": 0,
+      "gpaWeighted": 3.6307
+    },
+    {
+      "sat2400": 2270,
+      "resultCode": 1,
+      "type": "ED",
+      "satConcorded": 1550,
+      "gpaCumulative": 4.0892,
+      "act": 0,
+      "gpaWeighted": 4.0892
+    },
+    {
+      "sat2400": 2170,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1500,
+      "gpaCumulative": 4.2464,
+      "act": 0,
+      "gpaWeighted": 4.2464
+    },
+    {
+      "sat2400": 2270,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1550,
+      "gpaCumulative": 3.9266,
+      "act": 0,
+      "gpaWeighted": 3.9266
+    },
+    {
+      "sat2400": 2320,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1570,
+      "gpaCumulative": 4.275,
+      "act": 0,
+      "gpaWeighted": 4.275
+    },
+    {
+      "sat2400": 2110,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 1470,
+      "gpaCumulative": 3.9672,
+      "act": 30,
+      "gpaWeighted": 3.9672
+    },
+    {
+      "sat2400": 1860,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1320,
+      "gpaCumulative": 3.3892,
+      "act": 27,
+      "gpaWeighted": 3.3892
+    },
+    {
+      "sat2400": 1860,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1320,
+      "gpaCumulative": 3.3892,
+      "act": 27,
+      "gpaWeighted": 3.3892
+    },
+    {
+      "sat2400": 1810,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1290,
+      "gpaCumulative": 3.3795,
+      "act": 28,
+      "gpaWeighted": 3.3795
+    },
+    {
+      "sat2400": 1860,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1320,
+      "gpaCumulative": 3.8714,
+      "act": 0,
+      "gpaWeighted": 3.8714
+    },
+    {
+      "sat2400": 1890,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1340,
+      "gpaCumulative": 3.2543,
+      "act": 26,
+      "gpaWeighted": 3.2543
+    },
+    {
+      "sat2400": 1430,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1050,
+      "gpaCumulative": 3.3566,
+      "act": 0,
+      "gpaWeighted": 3.3566
+    },
+    {
+      "sat2400": 1570,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1140,
+      "gpaCumulative": 3.4074,
+      "act": 20,
+      "gpaWeighted": 3.4074
+    },
+    {
+      "sat2400": 1800,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1290,
+      "gpaCumulative": 4.0238,
+      "act": 26,
+      "gpaWeighted": 4.0238
+    },
+    {
+      "sat2400": 1690,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1210,
+      "gpaCumulative": 2.4767,
+      "act": 0,
+      "gpaWeighted": 2.4767
+    },
+    {
+      "sat2400": 2280,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1550,
+      "gpaCumulative": 4.3571,
+      "act": 0,
+      "gpaWeighted": 4.3571
+    },
+    {
+      "sat2400": 2170,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1500,
+      "gpaCumulative": 4.1455,
+      "act": 0,
+      "gpaWeighted": 4.1455
+    },
+    {
+      "sat2400": 1890,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5096,
+      "act": 27,
+      "gpaWeighted": 3.5096
+    },
+    {
+      "sat2400": 1840,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1310,
+      "gpaCumulative": 3.7725,
+      "act": 0,
+      "gpaWeighted": 3.7725
+    },
+    {
+      "sat2400": 1740,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1250,
+      "gpaCumulative": 4.1518,
+      "act": 34,
+      "gpaWeighted": 4.1518
+    },
+    {
+      "sat2400": 1780,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1270,
+      "gpaCumulative": 3.5607,
+      "act": 0,
+      "gpaWeighted": 3.5607
+    },
+    {
+      "sat2400": 2330,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1570,
+      "gpaCumulative": 4.3397,
+      "act": 0,
+      "gpaWeighted": 4.3397
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 3.7179,
+      "act": 29,
+      "gpaWeighted": 3.7179
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.3164,
+      "act": 35,
+      "gpaWeighted": 4.3164
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.1679,
+      "act": 29,
+      "gpaWeighted": 4.1679
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.2107,
+      "act": 35,
+      "gpaWeighted": 4.2107
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.0661,
+      "act": 35,
+      "gpaWeighted": 4.0661
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.3709,
+      "act": 32,
+      "gpaWeighted": 4.3709
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 3.9544,
+      "act": 29,
+      "gpaWeighted": 3.9544
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.2982,
+      "act": 35,
+      "gpaWeighted": 4.2982
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 3.3321,
+      "act": 19,
+      "gpaWeighted": 3.3321
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 0,
+      "gpaCumulative": 4.1795,
+      "act": 35,
+      "gpaWeighted": 4.1795
+    },
+    {
+      "sat2400": 2100,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1470,
+      "gpaCumulative": 4.1018,
+      "act": 0,
+      "gpaWeighted": 4.1018
+    }
+  ],
+  "Dartmouth College": [
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 3.9534,
+      "act": 35,
+      "gpaWeighted": 4.212
+    },
+    {
+      "sat2400": 2010,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1410,
+      "gpaCumulative": 3.8983,
+      "act": 27,
+      "gpaWeighted": 3.8983
+    },
+    {
+      "sat2400": 1930,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1370,
+      "gpaCumulative": 3.6016,
+      "act": 28,
+      "gpaWeighted": 3.6016
+    },
+    {
+      "sat2400": 1930,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1370,
+      "gpaCumulative": 3.6016,
+      "act": 28,
+      "gpaWeighted": 3.6016
+    },
+    {
+      "sat2400": 2160,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1500,
+      "gpaCumulative": 3.4275,
+      "act": 0,
+      "gpaWeighted": 3.4275
+    },
+    {
+      "sat2400": 2230,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1530,
+      "gpaCumulative": 3.5551,
+      "act": 0,
+      "gpaWeighted": 3.5551
+    },
+    {
+      "sat2400": 2040,
+      "resultCode": 2,
+      "type": "ED",
+      "satConcorded": 1430,
+      "gpaCumulative": 4.1642,
+      "act": 0,
+      "gpaWeighted": 4.1642
+    },
+    {
+      "sat2400": 1860,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1320,
+      "gpaCumulative": 3.6894,
+      "act": 0,
+      "gpaWeighted": 3.6894
+    },
+    {
+      "sat2400": 1970,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1390,
+      "gpaCumulative": 4.1785,
+      "act": 0,
+      "gpaWeighted": 4.1785
+    },
+    {
+      "sat2400": 1820,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1300,
+      "gpaCumulative": 3.6188,
+      "act": 0,
+      "gpaWeighted": 3.6188
+    },
+    {
+      "sat2400": 2210,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1520,
+      "gpaCumulative": 4.1483,
+      "act": 33,
+      "gpaWeighted": 4.1483
+    },
+    {
+      "sat2400": 1430,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1050,
+      "gpaCumulative": 3.3566,
+      "act": 0,
+      "gpaWeighted": 3.3566
+    },
+    {
+      "sat2400": 1910,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1350,
+      "gpaCumulative": 3.7375,
+      "act": 0,
+      "gpaWeighted": 3.7375
+    },
+    {
+      "sat2400": 1800,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1290,
+      "gpaCumulative": 4.0238,
+      "act": 26,
+      "gpaWeighted": 4.0238
+    },
+    {
+      "sat2400": 1800,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1290,
+      "gpaCumulative": 4.0238,
+      "act": 26,
+      "gpaWeighted": 4.0238
+    },
+    {
+      "sat2400": 1970,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1390,
+      "gpaCumulative": 3.8189,
+      "act": 0,
+      "gpaWeighted": 3.8189
+    },
+    {
+      "sat2400": 1740,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1250,
+      "gpaCumulative": 4.1554,
+      "act": 29,
+      "gpaWeighted": 4.1554
+    },
+    {
+      "sat2400": 2280,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1550,
+      "gpaCumulative": 4.3571,
+      "act": 0,
+      "gpaWeighted": 4.3571
+    },
+    {
+      "sat2400": 2110,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1470,
+      "gpaCumulative": 4.2589,
+      "act": 0,
+      "gpaWeighted": 4.2589
+    },
+    {
+      "sat2400": 1790,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1280,
+      "gpaCumulative": 3.4818,
+      "act": 0,
+      "gpaWeighted": 3.4818
+    },
+    {
+      "sat2400": 2200,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1510,
+      "gpaCumulative": 3.9867,
+      "act": 0,
+      "gpaWeighted": 3.9867
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.3164,
+      "act": 35,
+      "gpaWeighted": 4.3164
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 3.9544,
+      "act": 29,
+      "gpaWeighted": 3.9544
     }
   ],
   "Brown University": [
     {
       "sat2400": 1700,
-      "gpaWeighted": 3.7758,
-      "satConcorded": 1220,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.7758
+      "satConcorded": 1220,
+      "gpaCumulative": 3.7758,
+      "act": 0,
+      "gpaWeighted": 3.7758
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 2.7578,
-      "satConcorded": 0,
-      "act": 17,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 2.7578
+      "satConcorded": 0,
+      "gpaCumulative": 2.7578,
+      "act": 17,
+      "gpaWeighted": 2.7578
     },
     {
       "sat2400": 2150,
-      "gpaWeighted": 4.0238,
-      "satConcorded": 1490,
-      "act": 31,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.0238
+      "satConcorded": 1490,
+      "gpaCumulative": 4.0238,
+      "act": 31,
+      "gpaWeighted": 4.0238
     },
     {
       "sat2400": 1980,
-      "gpaWeighted": 3.8142,
-      "satConcorded": 1400,
-      "act": 26,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.8142
+      "satConcorded": 1400,
+      "gpaCumulative": 3.8142,
+      "act": 26,
+      "gpaWeighted": 3.8142
     },
     {
       "sat2400": 1630,
-      "gpaWeighted": 3.3482,
-      "satConcorded": 1180,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.3482
+      "satConcorded": 1180,
+      "gpaCumulative": 3.3482,
+      "act": 0,
+      "gpaWeighted": 3.3482
     },
     {
       "sat2400": 2290,
-      "gpaWeighted": 3.7683,
-      "satConcorded": 1550,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.7683
+      "satConcorded": 1550,
+      "gpaCumulative": 3.7683,
+      "act": 0,
+      "gpaWeighted": 3.7683
     },
     {
       "sat2400": 1710,
-      "gpaWeighted": 3.0905,
-      "satConcorded": 1230,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.0905
+      "satConcorded": 1230,
+      "gpaCumulative": 3.0905,
+      "act": 0,
+      "gpaWeighted": 3.0905
     },
     {
       "sat2400": 2240,
-      "gpaWeighted": 3.9654,
-      "satConcorded": 1530,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.9654
+      "satConcorded": 1530,
+      "gpaCumulative": 3.9654,
+      "act": 0,
+      "gpaWeighted": 3.9654
     },
     {
       "sat2400": 2230,
-      "gpaWeighted": 4.2267,
-      "satConcorded": 1530,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.2267
+      "satConcorded": 1530,
+      "gpaCumulative": 4.2267,
+      "act": 0,
+      "gpaWeighted": 4.2267
     },
     {
       "sat2400": 2240,
-      "gpaWeighted": 4.2714,
-      "satConcorded": 1530,
-      "act": 0,
       "resultCode": 2,
       "type": "ED",
-      "gpaCumulative": 4.2714
+      "satConcorded": 1530,
+      "gpaCumulative": 4.2714,
+      "act": 0,
+      "gpaWeighted": 4.2714
     },
     {
       "sat2400": 1890,
-      "gpaWeighted": 3.5589,
-      "satConcorded": 1340,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.5589
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5589,
+      "act": 0,
+      "gpaWeighted": 3.5589
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.624,
-      "satConcorded": 0,
-      "act": 30,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.624
+      "satConcorded": 0,
+      "gpaCumulative": 3.624,
+      "act": 30,
+      "gpaWeighted": 3.624
     },
     {
       "sat2400": 2100,
-      "gpaWeighted": 3.4482,
-      "satConcorded": 1470,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.4482
+      "satConcorded": 1470,
+      "gpaCumulative": 3.4482,
+      "act": 0,
+      "gpaWeighted": 3.4482
     },
     {
       "sat2400": 1700,
-      "gpaWeighted": 3.925,
-      "satConcorded": 1220,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.925
+      "satConcorded": 1220,
+      "gpaCumulative": 3.925,
+      "act": 0,
+      "gpaWeighted": 3.925
     },
     {
       "sat2400": 2140,
-      "gpaWeighted": 3.991,
-      "satConcorded": 1490,
-      "act": 0,
       "resultCode": 2,
       "type": "ED",
-      "gpaCumulative": 3.991
+      "satConcorded": 1490,
+      "gpaCumulative": 3.991,
+      "act": 0,
+      "gpaWeighted": 3.991
     },
     {
       "sat2400": 1970,
-      "gpaWeighted": 4.1785,
-      "satConcorded": 1390,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.1785
+      "satConcorded": 1390,
+      "gpaCumulative": 4.1785,
+      "act": 0,
+      "gpaWeighted": 4.1785
     },
     {
       "sat2400": 2040,
-      "gpaWeighted": 4.1642,
-      "satConcorded": 1430,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.1642
+      "satConcorded": 1430,
+      "gpaCumulative": 4.1642,
+      "act": 0,
+      "gpaWeighted": 4.1642
     },
     {
       "sat2400": 1820,
-      "gpaWeighted": 3.6188,
-      "satConcorded": 1300,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.6188
+      "satConcorded": 1300,
+      "gpaCumulative": 3.6188,
+      "act": 0,
+      "gpaWeighted": 3.6188
     },
     {
       "sat2400": 1840,
-      "gpaWeighted": 3.8321,
-      "satConcorded": 1310,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.8321
+      "satConcorded": 1310,
+      "gpaCumulative": 3.8321,
+      "act": 0,
+      "gpaWeighted": 3.8321
     },
     {
       "sat2400": 2330,
-      "gpaWeighted": 3.8087,
-      "satConcorded": 1570,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.8087
+      "satConcorded": 1570,
+      "gpaCumulative": 3.8087,
+      "act": 0,
+      "gpaWeighted": 3.8087
     },
     {
       "sat2400": 2220,
-      "gpaWeighted": 3.9,
-      "satConcorded": 1520,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 0.0
+      "satConcorded": 1520,
+      "gpaCumulative": 0.0,
+      "act": 0,
+      "gpaWeighted": 3.9
     },
     {
       "sat2400": 1690,
-      "gpaWeighted": 3.6307,
-      "satConcorded": 1210,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.6307
+      "satConcorded": 1210,
+      "gpaCumulative": 3.6307,
+      "act": 0,
+      "gpaWeighted": 3.6307
     },
     {
       "sat2400": 1810,
-      "gpaWeighted": 3.3795,
-      "satConcorded": 1290,
-      "act": 28,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.3795
+      "satConcorded": 1290,
+      "gpaCumulative": 3.3795,
+      "act": 28,
+      "gpaWeighted": 3.3795
     },
     {
       "sat2400": 2210,
-      "gpaWeighted": 4.1483,
-      "satConcorded": 1520,
-      "act": 33,
       "resultCode": 2,
       "type": "ED",
-      "gpaCumulative": 4.1483
+      "satConcorded": 1520,
+      "gpaCumulative": 4.1483,
+      "act": 33,
+      "gpaWeighted": 4.1483
     },
     {
       "sat2400": 2170,
-      "gpaWeighted": 4.2464,
-      "satConcorded": 1500,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.2464
+      "satConcorded": 1500,
+      "gpaCumulative": 4.2464,
+      "act": 0,
+      "gpaWeighted": 4.2464
     },
     {
       "sat2400": 2310,
-      "gpaWeighted": 3.9491,
-      "satConcorded": 1560,
-      "act": 0,
       "resultCode": 2,
       "type": "ED",
-      "gpaCumulative": 3.9491
+      "satConcorded": 1560,
+      "gpaCumulative": 3.9491,
+      "act": 0,
+      "gpaWeighted": 3.9491
     },
     {
       "sat2400": 2320,
-      "gpaWeighted": 4.275,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 1570,
+      "gpaCumulative": 4.275,
       "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.275
+      "gpaWeighted": 4.275
     },
     {
       "sat2400": 1860,
-      "gpaWeighted": 3.3892,
-      "satConcorded": 1320,
-      "act": 27,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.3892
+      "satConcorded": 1320,
+      "gpaCumulative": 3.3892,
+      "act": 27,
+      "gpaWeighted": 3.3892
     },
     {
       "sat2400": 1860,
-      "gpaWeighted": 3.3892,
-      "satConcorded": 1320,
-      "act": 27,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.3892
+      "satConcorded": 1320,
+      "gpaCumulative": 3.3892,
+      "act": 27,
+      "gpaWeighted": 3.3892
     },
     {
       "sat2400": 2240,
-      "gpaWeighted": 4.2017,
-      "satConcorded": 1530,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.2017
+      "satConcorded": 1530,
+      "gpaCumulative": 4.2017,
+      "act": 0,
+      "gpaWeighted": 4.2017
     },
     {
       "sat2400": 2070,
-      "gpaWeighted": 3.6962,
-      "satConcorded": 1450,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.6962
+      "satConcorded": 1450,
+      "gpaCumulative": 3.6962,
+      "act": 0,
+      "gpaWeighted": 3.6962
     },
     {
       "sat2400": 1510,
-      "gpaWeighted": 3.3633,
-      "satConcorded": 1100,
-      "act": 22,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.3633
+      "satConcorded": 1100,
+      "gpaCumulative": 3.3633,
+      "act": 22,
+      "gpaWeighted": 3.3633
     },
     {
       "sat2400": 2010,
-      "gpaWeighted": 2.9661,
-      "satConcorded": 1410,
-      "act": 34,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 2.9661
+      "satConcorded": 1410,
+      "gpaCumulative": 2.9661,
+      "act": 34,
+      "gpaWeighted": 2.9661
     },
     {
       "sat2400": 2290,
-      "gpaWeighted": 4.3054,
-      "satConcorded": 1550,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.3054
+      "satConcorded": 1550,
+      "gpaCumulative": 4.3054,
+      "act": 0,
+      "gpaWeighted": 4.3054
     },
     {
       "sat2400": 2280,
-      "gpaWeighted": 4.3571,
-      "satConcorded": 1550,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.3571
+      "satConcorded": 1550,
+      "gpaCumulative": 4.3571,
+      "act": 0,
+      "gpaWeighted": 4.3571
     },
     {
       "sat2400": 2090,
-      "gpaWeighted": 4.0304,
-      "satConcorded": 1460,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.0304
+      "satConcorded": 1460,
+      "gpaCumulative": 4.0304,
+      "act": 0,
+      "gpaWeighted": 4.0304
     },
     {
       "sat2400": 1890,
-      "gpaWeighted": 3.5096,
-      "satConcorded": 1340,
-      "act": 27,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.5096
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5096,
+      "act": 27,
+      "gpaWeighted": 3.5096
     },
     {
       "sat2400": 2110,
-      "gpaWeighted": 4.2589,
-      "satConcorded": 1470,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 4.2589
+      "satConcorded": 1470,
+      "gpaCumulative": 4.2589,
+      "act": 0,
+      "gpaWeighted": 4.2589
     },
     {
       "sat2400": 1780,
-      "gpaWeighted": 3.5607,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 1270,
+      "gpaCumulative": 3.5607,
       "act": 0,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.5607
+      "gpaWeighted": 3.5607
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.6571,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.6571,
       "act": 32,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.6571
+      "gpaWeighted": 3.6571
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.9603,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.9603,
       "act": 29,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9603
+      "gpaWeighted": 3.9603
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.3164,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 4.3164,
       "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 4.3164
+      "gpaWeighted": 4.3164
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.9742,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.9742,
       "act": 35,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9742
+      "gpaWeighted": 3.9742
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.9544,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.9544,
       "act": 29,
-      "resultCode": 2,
-      "type": "RD",
-      "gpaCumulative": 3.9544
+      "gpaWeighted": 3.9544
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.0117,
+      "resultCode": 2,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 4.0117,
       "act": 28,
+      "gpaWeighted": 4.0117
+    }
+  ],
+  "Harvard College": [
+    {
+      "sat2400": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 4.0117
+      "satConcorded": 0,
+      "gpaCumulative": 3.9534,
+      "act": 35,
+      "gpaWeighted": 4.212
+    },
+    {
+      "sat2400": 2290,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1550,
+      "gpaCumulative": 3.7683,
+      "act": 0,
+      "gpaWeighted": 3.7683
+    },
+    {
+      "sat2400": 2220,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1520,
+      "gpaCumulative": 4.0557,
+      "act": 32,
+      "gpaWeighted": 4.0557
+    },
+    {
+      "sat2400": 2240,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1530,
+      "gpaCumulative": 3.9654,
+      "act": 0,
+      "gpaWeighted": 3.9654
+    },
+    {
+      "sat2400": 1260,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 930,
+      "gpaCumulative": 2.2925,
+      "act": 19,
+      "gpaWeighted": 2.2925
+    },
+    {
+      "sat2400": 2150,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1490,
+      "gpaCumulative": 4.0238,
+      "act": 31,
+      "gpaWeighted": 4.0238
+    },
+    {
+      "sat2400": 2030,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1430,
+      "gpaCumulative": 4.0112,
+      "act": 0,
+      "gpaWeighted": 4.0112
+    },
+    {
+      "sat2400": 2230,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1530,
+      "gpaCumulative": 3.5551,
+      "act": 0,
+      "gpaWeighted": 3.5551
+    },
+    {
+      "sat2400": 1880,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5607,
+      "act": 27,
+      "gpaWeighted": 3.5607
+    },
+    {
+      "sat2400": 2240,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1530,
+      "gpaCumulative": 4.2714,
+      "act": 0,
+      "gpaWeighted": 4.2714
+    },
+    {
+      "sat2400": 2090,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1460,
+      "gpaCumulative": 4.1339,
+      "act": 0,
+      "gpaWeighted": 4.1339
+    },
+    {
+      "sat2400": 2180,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1510,
+      "gpaCumulative": 4.1321,
+      "act": 0,
+      "gpaWeighted": 4.1321
+    },
+    {
+      "sat2400": 1580,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1140,
+      "gpaCumulative": 3.425,
+      "act": 0,
+      "gpaWeighted": 3.425
+    },
+    {
+      "sat2400": 1890,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1340,
+      "gpaCumulative": 3.5589,
+      "act": 0,
+      "gpaWeighted": 3.5589
+    },
+    {
+      "sat2400": 2180,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1510,
+      "gpaCumulative": 4.1321,
+      "act": 0,
+      "gpaWeighted": 4.1321
+    },
+    {
+      "sat2400": 1970,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1390,
+      "gpaCumulative": 2.6052,
+      "act": 0,
+      "gpaWeighted": 2.6052
+    },
+    {
+      "sat2400": 2100,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1470,
+      "gpaCumulative": 3.4482,
+      "act": 0,
+      "gpaWeighted": 3.4482
+    },
+    {
+      "sat2400": 2040,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1430,
+      "gpaCumulative": 4.1642,
+      "act": 0,
+      "gpaWeighted": 4.1642
+    },
+    {
+      "sat2400": 2330,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1570,
+      "gpaCumulative": 3.8087,
+      "act": 0,
+      "gpaWeighted": 3.8087
+    },
+    {
+      "sat2400": 2050,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1440,
+      "gpaCumulative": 4.3125,
+      "act": 33,
+      "gpaWeighted": 4.3125
+    },
+    {
+      "sat2400": 2170,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1500,
+      "gpaCumulative": 4.2464,
+      "act": 0,
+      "gpaWeighted": 4.2464
+    },
+    {
+      "sat2400": 2270,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1550,
+      "gpaCumulative": 3.9266,
+      "act": 0,
+      "gpaWeighted": 3.9266
+    },
+    {
+      "sat2400": 2210,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1520,
+      "gpaCumulative": 4.1483,
+      "act": 33,
+      "gpaWeighted": 4.1483
+    },
+    {
+      "sat2400": 1920,
+      "resultCode": 2,
+      "type": "REA",
+      "satConcorded": 1360,
+      "gpaCumulative": 3.4196,
+      "act": 0,
+      "gpaWeighted": 3.4196
+    },
+    {
+      "sat2400": 1720,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1230,
+      "gpaCumulative": 3.6892,
+      "act": 24,
+      "gpaWeighted": 3.6892
+    },
+    {
+      "sat2400": 1860,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1320,
+      "gpaCumulative": 3.8714,
+      "act": 0,
+      "gpaWeighted": 3.8714
+    },
+    {
+      "sat2400": 2320,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1570,
+      "gpaCumulative": 4.275,
+      "act": 0,
+      "gpaWeighted": 4.275
+    },
+    {
+      "sat2400": 2110,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1470,
+      "gpaCumulative": 3.9672,
+      "act": 30,
+      "gpaWeighted": 3.9672
+    },
+    {
+      "sat2400": 2330,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1570,
+      "gpaCumulative": 4.3397,
+      "act": 0,
+      "gpaWeighted": 4.3397
+    },
+    {
+      "sat2400": 2040,
+      "resultCode": 1,
+      "type": "RD",
+      "satConcorded": 1430,
+      "gpaCumulative": 4.3912,
+      "act": 0,
+      "gpaWeighted": 4.3912
+    },
+    {
+      "sat2400": 2280,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1550,
+      "gpaCumulative": 4.3571,
+      "act": 0,
+      "gpaWeighted": 4.3571
+    },
+    {
+      "sat2400": 2130,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1480,
+      "gpaCumulative": 3.9945,
+      "act": 0,
+      "gpaWeighted": 3.9945
+    },
+    {
+      "sat2400": 1740,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1250,
+      "gpaCumulative": 3.5439,
+      "act": 26,
+      "gpaWeighted": 3.5439
+    },
+    {
+      "sat2400": 1540,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 1120,
+      "gpaCumulative": 2.9357,
+      "act": 0,
+      "gpaWeighted": 2.9357
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.3164,
+      "act": 35,
+      "gpaWeighted": 4.3164
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.0382,
+      "act": 24,
+      "gpaWeighted": 4.0382
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 1,
+      "type": "REA",
+      "satConcorded": 0,
+      "gpaCumulative": 4.2172,
+      "act": 36,
+      "gpaWeighted": 4.2172
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.2107,
+      "act": 35,
+      "gpaWeighted": 4.2107
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.0661,
+      "act": 35,
+      "gpaWeighted": 4.0661
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 4.2327,
+      "act": 32,
+      "gpaWeighted": 4.2327
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 1,
+      "type": "REA",
+      "satConcorded": 0,
+      "gpaCumulative": 4.4509,
+      "act": 34,
+      "gpaWeighted": 4.4509
+    },
+    {
+      "sat2400": 0,
+      "resultCode": 2,
+      "type": "RD",
+      "satConcorded": 0,
+      "gpaCumulative": 3.3214,
+      "act": 26,
+      "gpaWeighted": 3.3214
     }
   ],
   "Northeastern University": [
     {
       "sat2400": 1590,
-      "gpaWeighted": 3.2844,
-      "satConcorded": 1150,
-      "act": 21,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.112
+      "satConcorded": 1150,
+      "gpaCumulative": 3.112,
+      "act": 21,
+      "gpaWeighted": 3.2844
     },
     {
       "sat2400": 1590,
-      "gpaWeighted": 3.2844,
-      "satConcorded": 1150,
-      "act": 21,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.112
+      "satConcorded": 1150,
+      "gpaCumulative": 3.112,
+      "act": 21,
+      "gpaWeighted": 3.2844
     },
     {
       "sat2400": 2030,
-      "gpaWeighted": 3.9161,
-      "satConcorded": 1430,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 3.9161
+      "satConcorded": 1430,
+      "gpaCumulative": 3.9161,
+      "act": 0,
+      "gpaWeighted": 3.9161
     },
     {
       "sat2400": 2080,
-      "gpaWeighted": 4.0,
-      "satConcorded": 1450,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.0
+      "satConcorded": 1450,
+      "gpaCumulative": 4.0,
+      "act": 0,
+      "gpaWeighted": 4.0
     },
     {
       "sat2400": 1990,
-      "gpaWeighted": 2.9241,
-      "satConcorded": 1400,
-      "act": 0,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 2.9241
+      "satConcorded": 1400,
+      "gpaCumulative": 2.9241,
+      "act": 0,
+      "gpaWeighted": 2.9241
     },
     {
       "sat2400": 1710,
-      "gpaWeighted": 3.2355,
-      "satConcorded": 1230,
-      "act": 0,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 3.2355
+      "satConcorded": 1230,
+      "gpaCumulative": 3.2355,
+      "act": 0,
+      "gpaWeighted": 3.2355
     },
     {
       "sat2400": 2300,
-      "gpaWeighted": 3.8968,
-      "satConcorded": 1560,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 3.8968
+      "satConcorded": 1560,
+      "gpaCumulative": 3.8968,
+      "act": 0,
+      "gpaWeighted": 3.8968
     },
     {
       "sat2400": 1630,
-      "gpaWeighted": 3.3482,
-      "satConcorded": 1180,
-      "act": 0,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 3.3482
+      "satConcorded": 1180,
+      "gpaCumulative": 3.3482,
+      "act": 0,
+      "gpaWeighted": 3.3482
     },
     {
       "sat2400": 2010,
-      "gpaWeighted": 3.8983,
-      "satConcorded": 1410,
-      "act": 27,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.8983
+      "satConcorded": 1410,
+      "gpaCumulative": 3.8983,
+      "act": 27,
+      "gpaWeighted": 3.8983
     },
     {
       "sat2400": 2050,
-      "gpaWeighted": 3.0454,
-      "satConcorded": 1440,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.0454
+      "satConcorded": 1440,
+      "gpaCumulative": 3.0454,
+      "act": 0,
+      "gpaWeighted": 3.0454
     },
     {
       "sat2400": 2200,
-      "gpaWeighted": 3.4,
-      "satConcorded": 1510,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.4
+      "satConcorded": 1510,
+      "gpaCumulative": 3.4,
+      "act": 0,
+      "gpaWeighted": 3.4
     },
     {
       "sat2400": 2230,
-      "gpaWeighted": 3.5129,
-      "satConcorded": 1530,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.5129
+      "satConcorded": 1530,
+      "gpaCumulative": 3.5129,
+      "act": 0,
+      "gpaWeighted": 3.5129
     },
     {
       "sat2400": 1780,
-      "gpaWeighted": 3.8625,
-      "satConcorded": 1270,
-      "act": 27,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 3.8625
+      "satConcorded": 1270,
+      "gpaCumulative": 3.8625,
+      "act": 27,
+      "gpaWeighted": 3.8625
     },
     {
       "sat2400": 1640,
-      "gpaWeighted": 3.0714,
-      "satConcorded": 1180,
-      "act": 0,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 3.0714
+      "satConcorded": 1180,
+      "gpaCumulative": 3.0714,
+      "act": 0,
+      "gpaWeighted": 3.0714
     },
     {
       "sat2400": 2070,
-      "gpaWeighted": 3.591,
-      "satConcorded": 1450,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 3.591
+      "satConcorded": 1450,
+      "gpaCumulative": 3.591,
+      "act": 0,
+      "gpaWeighted": 3.591
     },
     {
       "sat2400": 2000,
-      "gpaWeighted": 4.1892,
-      "satConcorded": 1410,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.1892
+      "satConcorded": 1410,
+      "gpaCumulative": 4.1892,
+      "act": 0,
+      "gpaWeighted": 4.1892
     },
     {
       "sat2400": 1860,
-      "gpaWeighted": 3.7589,
-      "satConcorded": 1320,
-      "act": 27,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.7589
+      "satConcorded": 1320,
+      "gpaCumulative": 3.7589,
+      "act": 27,
+      "gpaWeighted": 3.7589
     },
     {
       "sat2400": 1480,
-      "gpaWeighted": 3.4191,
-      "satConcorded": 1080,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.4191
+      "satConcorded": 1080,
+      "gpaCumulative": 3.4191,
+      "act": 0,
+      "gpaWeighted": 3.4191
     },
     {
       "sat2400": 2270,
-      "gpaWeighted": 4.0543,
-      "satConcorded": 1550,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.0543
+      "satConcorded": 1550,
+      "gpaCumulative": 4.0543,
+      "act": 0,
+      "gpaWeighted": 4.0543
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.591,
-      "satConcorded": 0,
-      "act": 29,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.591
+      "satConcorded": 0,
+      "gpaCumulative": 3.591,
+      "act": 29,
+      "gpaWeighted": 3.591
     },
     {
       "sat2400": 1630,
-      "gpaWeighted": 2.9035,
-      "satConcorded": 1180,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 2.9035
+      "satConcorded": 1180,
+      "gpaCumulative": 2.9035,
+      "act": 0,
+      "gpaWeighted": 2.9035
     },
     {
       "sat2400": 1860,
-      "gpaWeighted": 3.5543,
-      "satConcorded": 1320,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 3.5543
+      "satConcorded": 1320,
+      "gpaCumulative": 3.5543,
+      "act": 0,
+      "gpaWeighted": 3.5543
     },
     {
       "sat2400": 1920,
-      "gpaWeighted": 3.7035,
-      "satConcorded": 1360,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.7035
+      "satConcorded": 1360,
+      "gpaCumulative": 3.7035,
+      "act": 0,
+      "gpaWeighted": 3.7035
     },
     {
       "sat2400": 1790,
-      "gpaWeighted": 3.1354,
-      "satConcorded": 1280,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.1354
+      "satConcorded": 1280,
+      "gpaCumulative": 3.1354,
+      "act": 0,
+      "gpaWeighted": 3.1354
     },
     {
       "sat2400": 2050,
-      "gpaWeighted": 3.8946,
-      "satConcorded": 1440,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 3.8946
+      "satConcorded": 1440,
+      "gpaCumulative": 3.8946,
+      "act": 0,
+      "gpaWeighted": 3.8946
     },
     {
       "sat2400": 2080,
-      "gpaWeighted": 4.0333,
-      "satConcorded": 1450,
-      "act": 31,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.0333
+      "satConcorded": 1450,
+      "gpaCumulative": 4.0333,
+      "act": 31,
+      "gpaWeighted": 4.0333
     },
     {
       "sat2400": 1730,
-      "gpaWeighted": 3.1578,
-      "satConcorded": 1240,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.1578
+      "satConcorded": 1240,
+      "gpaCumulative": 3.1578,
+      "act": 0,
+      "gpaWeighted": 3.1578
     },
     {
       "sat2400": 1770,
-      "gpaWeighted": 3.6836,
-      "satConcorded": 1270,
-      "act": 26,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 3.6836
+      "satConcorded": 1270,
+      "gpaCumulative": 3.6836,
+      "act": 26,
+      "gpaWeighted": 3.6836
     },
     {
       "sat2400": 1990,
-      "gpaWeighted": 3.434,
-      "satConcorded": 1400,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.434
+      "satConcorded": 1400,
+      "gpaCumulative": 3.434,
+      "act": 0,
+      "gpaWeighted": 3.434
     },
     {
       "sat2400": 1770,
-      "gpaWeighted": 4.1684,
-      "satConcorded": 1270,
-      "act": 31,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.1684
+      "satConcorded": 1270,
+      "gpaCumulative": 4.1684,
+      "act": 31,
+      "gpaWeighted": 4.1684
     },
     {
       "sat2400": 2200,
-      "gpaWeighted": 4.1393,
-      "satConcorded": 1510,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.1393
+      "satConcorded": 1510,
+      "gpaCumulative": 4.1393,
+      "act": 0,
+      "gpaWeighted": 4.1393
     },
     {
       "sat2400": 1950,
-      "gpaWeighted": 2.8818,
-      "satConcorded": 1380,
-      "act": 26,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 2.8818
+      "satConcorded": 1380,
+      "gpaCumulative": 2.8818,
+      "act": 26,
+      "gpaWeighted": 2.8818
     },
     {
       "sat2400": 1840,
-      "gpaWeighted": 3.7232,
-      "satConcorded": 1310,
-      "act": 0,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 3.7232
+      "satConcorded": 1310,
+      "gpaCumulative": 3.7232,
+      "act": 0,
+      "gpaWeighted": 3.7232
     },
     {
       "sat2400": 1770,
-      "gpaWeighted": 4.1684,
-      "satConcorded": 1270,
-      "act": 31,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.1684
+      "satConcorded": 1270,
+      "gpaCumulative": 4.1684,
+      "act": 31,
+      "gpaWeighted": 4.1684
     },
     {
       "sat2400": 2120,
-      "gpaWeighted": 3.4839,
-      "satConcorded": 1480,
-      "act": 22,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 3.4839
+      "satConcorded": 1480,
+      "gpaCumulative": 3.4839,
+      "act": 22,
+      "gpaWeighted": 3.4839
     },
     {
       "sat2400": 2110,
-      "gpaWeighted": 4.2589,
-      "satConcorded": 1470,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.2589
+      "satConcorded": 1470,
+      "gpaCumulative": 4.2589,
+      "act": 0,
+      "gpaWeighted": 4.2589
     },
     {
       "sat2400": 2120,
-      "gpaWeighted": 4.0071,
-      "satConcorded": 1480,
-      "act": 0,
       "resultCode": 1,
       "type": "EA",
-      "gpaCumulative": 4.0071
+      "satConcorded": 1480,
+      "gpaCumulative": 4.0071,
+      "act": 0,
+      "gpaWeighted": 4.0071
     },
     {
       "sat2400": 2080,
-      "gpaWeighted": 3.6911,
-      "satConcorded": 1450,
-      "act": 0,
       "resultCode": 2,
       "type": "RD",
-      "gpaCumulative": 3.6911
+      "satConcorded": 1450,
+      "gpaCumulative": 3.6911,
+      "act": 0,
+      "gpaWeighted": 3.6911
     },
     {
       "sat2400": 1760,
-      "gpaWeighted": 4.0321,
-      "satConcorded": 1260,
-      "act": 0,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 4.0321
+      "satConcorded": 1260,
+      "gpaCumulative": 4.0321,
+      "act": 0,
+      "gpaWeighted": 4.0321
     },
     {
       "sat2400": 1710,
-      "gpaWeighted": 3.6089,
-      "satConcorded": 1230,
-      "act": 0,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 3.6089
+      "satConcorded": 1230,
+      "gpaCumulative": 3.6089,
+      "act": 0,
+      "gpaWeighted": 3.6089
     },
     {
       "sat2400": 2000,
-      "gpaWeighted": 4.0074,
-      "satConcorded": 1410,
-      "act": 0,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 4.0074
+      "satConcorded": 1410,
+      "gpaCumulative": 4.0074,
+      "act": 0,
+      "gpaWeighted": 4.0074
     },
     {
       "sat2400": 1880,
-      "gpaWeighted": 3.7145,
+      "resultCode": 1,
+      "type": "RD",
       "satConcorded": 1340,
+      "gpaCumulative": 3.7145,
       "act": 0,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 3.7145
+      "gpaWeighted": 3.7145
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.9742,
+      "resultCode": 1,
+      "type": "RD",
       "satConcorded": 0,
+      "gpaCumulative": 3.9742,
       "act": 35,
-      "resultCode": 1,
-      "type": "RD",
-      "gpaCumulative": 3.9742
+      "gpaWeighted": 3.9742
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 3.687,
-      "satConcorded": 0,
-      "act": 33,
       "resultCode": 2,
       "type": "EA",
-      "gpaCumulative": 3.687
+      "satConcorded": 0,
+      "gpaCumulative": 3.687,
+      "act": 33,
+      "gpaWeighted": 3.687
     },
     {
       "sat2400": 0,
-      "gpaWeighted": 4.2327,
-      "satConcorded": 0,
-      "act": 32,
       "resultCode": 1,
       "type": "RD",
-      "gpaCumulative": 4.2327
+      "satConcorded": 0,
+      "gpaCumulative": 4.2327,
+      "act": 32,
+      "gpaWeighted": 4.2327
     }
   ]
 }
