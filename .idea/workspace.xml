@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ab78406-cb50-47bc-84a3-fd5b3014d5fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/hackdarthmouth-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brown.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/colby.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/columbia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dartmouth.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dartmouth.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackdarthmouth.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/harvard.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/navianceScraper/admittance_predictor.py" beforeDir="false" afterPath="$PROJECT_DIR$/navianceScraper/admittance_predictor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navianceScraper/csv.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/northeastern.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/princeton.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +13,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/navianceScraper/admittance_predictor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="177">
+              <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +62,7 @@
       <find>D</find>
       <find>1467</find>
       <find>other</find>
+      <find>fig</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,9 +79,9 @@
         <option value="$PROJECT_DIR$/navianceScraper/secretsTemplate.json" />
         <option value="$PROJECT_DIR$/.ipynb_checkpoints/hackdarthmouth-checkpoint.ipynb" />
         <option value="$PROJECT_DIR$/navianceScraper/naviance_scraper.py" />
-        <option value="$PROJECT_DIR$/server.py" />
         <option value="$PROJECT_DIR$/server/server.py" />
         <option value="$PROJECT_DIR$/navianceScraper/admittance_predictor.py" />
+        <option value="$PROJECT_DIR$/server.py" />
       </list>
     </option>
   </component>
@@ -112,11 +105,6 @@
               <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
               <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
               <item name="navianceScraper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mladmissions" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mladmissions" type="b2602c69:ProjectViewProjectNode" />
@@ -159,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.server (1)">
+  <component name="RunManager" selected="Python.server">
     <configuration name="admittance_predictor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mladmissions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,8 +255,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.server (1)" />
         <item itemvalue="Python.server" />
+        <item itemvalue="Python.server (1)" />
         <item itemvalue="Python.admittance_predictor" />
         <item itemvalue="Python.naviance_scraper" />
         <item itemvalue="Python.guidanceBot" />
@@ -292,9 +280,9 @@
     <frame x="0" y="0" width="959" height="1052" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17726798" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17726798" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
@@ -310,25 +298,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.3368092" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32983193" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39915967" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.1670168" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/xAPI-Edu-Data.csv">
@@ -709,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -725,8 +687,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/navianceScraper/admittance_predictor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="177">
+          <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
