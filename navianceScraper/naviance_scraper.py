@@ -68,36 +68,31 @@ def main_pull_naviance():
     ]
 
     # Get college links in Naviance
-    if True:
-        college_link_dict = {}
-        for college in college_list:
-            done = False
-            while not done:
-                driver.get("https://student.naviance.com/main")
-                search_form = get_elem(driver, "CLASS_NAME", "_2PJKifxu")
-                search_form = search_form.find_element_by_tag_name("form")
-                search_bar = search_form.find_element_by_class_name("hVydLG8s")
-                search_bar = search_bar.find_element_by_tag_name("input")
-                search_bar.send_keys(college)
-                search_button = search_form.find_element_by_class_name("fUerpKNk")
-                search_button.click()
-                # Swaps over to possible search results
-                try:
-                    results_table = get_elem(driver, "CLASS_NAME", "_1i56oIA3")
-                    top_result = results_table.find_elements_by_tag_name("tr")[1]
-                    college_link = top_result.find_element_by_tag_name("a").get_attribute("href")
-                    college_link_dict[college] = college_link
-                    done = True
-                except WebDriverException:
-                    pass
-        # Save data for later
-        with open(prefix + "college_link_dict.json", "w") as fp:
-            json.dump(college_link_dict, fp, indent=2)
-            fp.close()
-    else:
-        with open(prefix + "college_link_dict.json", "r") as fp:
-            college_link_dict = json.load(fp)
-            fp.close()
+    college_link_dict = {}
+    for college in college_list:
+        done = False
+        while not done:
+            driver.get("https://student.naviance.com/main")
+            search_form = get_elem(driver, "CLASS_NAME", "_2PJKifxu")
+            search_form = search_form.find_element_by_tag_name("form")
+            search_bar = search_form.find_element_by_class_name("hVydLG8s")
+            search_bar = search_bar.find_element_by_tag_name("input")
+            search_bar.send_keys(college)
+            search_button = search_form.find_element_by_class_name("fUerpKNk")
+            search_button.click()
+            # Swaps over to possible search results
+            try:
+                results_table = get_elem(driver, "CLASS_NAME", "_1i56oIA3")
+                top_result = results_table.find_elements_by_tag_name("tr")[1]
+                college_link = top_result.find_element_by_tag_name("a").get_attribute("href")
+                college_link_dict[college] = college_link
+                done = True
+            except WebDriverException:
+                pass
+    # Save data for later
+    with open(prefix + "college_link_dict.json", "w") as fp:
+        json.dump(college_link_dict, fp, indent=2)
+        fp.close()
 
     # Grab data
     admissions_info_dict = {}
@@ -149,7 +144,6 @@ def main_pull_naviance():
                     fp.write(str(score[dv]))
                 fp.write("\n")
             fp.close()
-
 
     # Predict wins/losses
     applying_colleges = []
