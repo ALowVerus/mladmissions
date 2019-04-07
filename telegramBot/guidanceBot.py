@@ -34,7 +34,7 @@ def postData(gpa, score, schoolList):
 	http = urllib3.PoolManager()
 	r = http.request("POST", "http://127.0.0.1:9000/predict", body=jsoned_data, headers={'Content-Type': 'application/json'})
 	data = str(r.data)
-	print("YOU GOT MAIL!" + data[2:-1])
+	print("\t\tYOU GOT MAIL!" + data[2:-1])
 	data = json.loads(data[2:-1])
 	print("\t\tMade JSON response")
 	print("\t\tResponse: ", data)
