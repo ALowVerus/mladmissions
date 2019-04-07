@@ -332,14 +332,14 @@ def collegeChoices(updates):
 			# set result to lowercase reply message
 			result = ( update["message"]["text"] ).lower()
 			# list of colleges we are allowing users to choose from
-			collegeOptions = ["Dartmouth", "Harvard", "Columbia", "Northeastern", "Princeton"]
+			collegeOptions = ["Dartmouth", "Columbia", "Northeastern", "Princeton"]
 			# search for each school in the list
 			for i in range(len(collegeOptions)):
 				# if we find one of the schools in the response
 				if ( result.find(collegeOptions[i].lower()) != -1 ):
 					# add it to the list of chosen schools
 					toAppend = collegeOptions[i]
-					if (i <= 1):
+					if (i <= 0):
 						toAppend += " College"
 					else:
 						toAppend += " University"
