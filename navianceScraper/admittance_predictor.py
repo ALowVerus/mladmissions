@@ -98,49 +98,38 @@ def main_admittance_predictor():
     # Define constants
     college_constants = {
         'Dartmouth College': {"knn_constant": 4, "model": "random_forest"},
-        'Colby College': {"knn_constant": 1, "model": "qda_predict"},
         'Princeton University': {"knn_constant": 1, "model": "gaussian_nb"},
         'Northeastern University': {"knn_constant": 1, "model": "gaussian_nb"},
         'Columbia University': {"knn_constant": 5, "model": "random_forest"},
-        'Harvard College': {"knn_constant": 1, "model": "qda_predict"},
-        'Brown University': {"knn_constant": 1, "model": "random_forest"}
+        # 'Harvard College': {"knn_constant": 5, "model": "qda_predict"},
     }
 
     # Up-sample your data
-    for college, data in college_specific_data.items():
+    for college in list(college_constants.keys()):
+        data = college_specific_data[college]
         print("\nTraining with " + college + ".\n")
         knn_cons = college_constants[college]["knn_constant"]
         x_college, y_college = process_data(data["entries"], college, knn_cons, showing_plots=showing_plots)
         college_specific_data[college]["xy"] = (x_college, y_college)
 
     # Analyze for probabilities of getting in
-    for college, data in college_specific_data.items():
+    made_models = {}
+    for college in list(college_constants.keys()):
         print("Predicting for " + college + ".")
         x_college, y_college = college_specific_data[college]["xy"]
-        # Try out qda
-        qda = QuadraticDiscriminantAnalysis().fit(x_college, y_college)
-        # Try out Gaussian Process
-        kernel = 1.0 * RBF(0.5)
-        gpc = GaussianProcessClassifier(kernel=kernel, random_state=1).fit(x_college, y_college)
-        # Try out GaussianNB
-        gnb = GaussianNB().fit(x_college, y_college)
-        # Try out Random Forests
-        rf = RandomForestClassifier(n_estimators=10, max_depth=3, random_state=0).fit(x_college, y_college)
-        # Get the best model
-        best_model = {"name": "none", "model": "none", "score": 0}
-        model_list = [
-            {"name": "qda", "model": qda, "score": qda.score(x_college, y_college)},
-            {"name": "gpc", "model": gpc, "score": gpc.score(x_college, y_college)},
-            {"name": "gnb", "model": gnb, "score": gnb.score(x_college, y_college)},
-            {"name": "rf", "model": rf, "score": rf.score(x_college, y_college)}
-        ]
-        for model in model_list:
-            if model["score"] > best_model["score"]:
-                best_model = model
-        print("Best model is " + best_model["name"] + ", scored at " + str(best_model["score"]) + ".")
-        college_specific_data[college]["model"] = best_model
+        optimal_model_type = college_constants[college]["model"]
+        if optimal_model_type == "random_forest":
+            model = RandomForestClassifier(n_estimators=10, max_depth=3, random_state=0).fit(x_college, y_college)
+        elif optimal_model_type == "qda_predict":
+            model = QuadraticDiscriminantAnalysis().fit(x_college, y_college)
+        elif optimal_model_type == "gaussian_nb":
+            model = GaussianNB().fit(x_college, y_college)
+        else:
+            exit()
+        print(model.predict_proba([[1600, 4.0]]))
+        made_models[college] = model
 
-    return college_specific_data
+    return made_models
 
 
 if __name__ == '__main__':
