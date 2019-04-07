@@ -353,7 +353,7 @@ def collegeChoices(updates):
 					resultsHandler(updates)
 					print("Finished resultsHandler")
 					curStep = 5
-					# giveResults()
+					replyMessage(updates, "Satisfied?") # loop
 					return
 			# send message letting user know they've given an invalid school choice
 			replyMessage(updates,
@@ -366,6 +366,13 @@ def collegeChoices(updates):
 				"Sorry! Please type either a valid school name or the word 'done'")
 			# ensure that step value stays set to school choice interpreter
 			curStep = 4
+
+# startOver - helps start over the program
+def startOver(updates):
+	global curStep
+	for update in updates["result"]:
+		replyMessage(updates, "And will you be submitting SAT or ACT scores?")
+		curStep = 0
 	
 def main():
 	last_update_id = None
@@ -401,6 +408,8 @@ def main():
 			# user sends college choices
 			elif (curStep == 4):
 				collegeChoices(updates)
+			elif (curStep == 5): # loop
+				startOver(updates) # loop
 		time.sleep(0.5)
 
 if __name__ == '__main__':
