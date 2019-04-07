@@ -249,13 +249,13 @@ def main():
 	last_update_id = None
 	global curStep # Current step in the interaction process
 	curStep = 0
-	global actChoice
+	global actChoice # whether or not the user has chosen to use ACT (if false, SAT)
 	actChoice = False
-	global gpaVal
+	global gpaVal # container for gpa
 	gpaVal = 0.0
-	global stdVal
+	global stdVal # container for test scores
 	stdVal = 0
-	global chosenSchools
+	global chosenSchools # container for chosen schools
 	chosenSchools = []
 	while True:
 		updates = get_updates(last_update_id)
