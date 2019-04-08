@@ -19,7 +19,6 @@ In the simplest terms, this is a chat bot that serves as a virtual guidance coun
 
 ## Tech
 * Data was gathered by scraping our Naviance portals using accounts we had from high school
-* Mathematical models were built using X
 * Uses [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) to scrape Naviance
 * Uses [Telegram](https://telegram.org/) for user interaction with the "guidance counselor." The bot itself is written in Python.
 * [Python](https://www.python.org/) Programming language for developing ML algorithms.
